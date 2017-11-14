@@ -1,0 +1,27 @@
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+component:
+
+  # ABOUT TNT Suppression
+  # Suppresses tnt if and only if the instability threshold reaches a limit for tnt.
+  # 
+  # You can disable TNT Suppression here.
+  enable: true
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 20
+action-suppress-tnt:
+
+  # Disable this feature if factions is installed?
+  disable-if-factions-installed: true
+
+  # Freeze all tnt when the server is lagging because of it?
+  freeze-all-tnt-on-lag: true
+
+  # Max allowed PRIMED tnt per chunk?
+  max-tnt-per-chunk: 16

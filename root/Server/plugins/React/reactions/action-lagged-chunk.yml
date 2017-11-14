@@ -1,0 +1,21 @@
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+component:
+
+  # ABOUT Find Heaviest Chunk
+  # Teleports you close to the chunk with the most entities in it. If there are no heavy chunks, you may not be teleported or it may not be that laggy at all.
+  # 
+  # You can disable Find Heaviest Chunk here.
+  enable: true
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 100
+action-lagged-chunk:
+
+  # If there are less than this many entities in ALL chunks, react wont find any chunks.
+  entity-buffer: 16
