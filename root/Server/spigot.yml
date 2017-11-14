@@ -37,7 +37,7 @@ settings:
   int-cache-limit: 1024
 messages:
   whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
+  unknown-command: O.O What was that?
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
