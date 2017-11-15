@@ -1,0 +1,31 @@
+lastAccountName: Plej
+timestamps:
+  login: 1510759086465
+  lastteleport: 1510694196313
+  logout: 1510702661256
+  kits:
+    tools: 1509998345185
+ipAddress: 83.253.136.45
+lastlocation:
+  world: world
+  x: 5647.412236310376
+  y: 78.0
+  z: 810.6999999880791
+  yaw: 9.0000105
+  pitch: 19.950003
+money: '9388.50'
+homes:
+  home:
+    world: world
+    x: 10090.000641728986
+    y: 87.0
+    z: 14404.901389630086
+    yaw: 235.19482
+    pitch: 13.6501045
+logoutlocation:
+  world: world
+  x: -9557.913908143251
+  y: 70.0
+  z: 1699.4926064950614
+  yaw: -88.49105
+  pitch: -15.908154

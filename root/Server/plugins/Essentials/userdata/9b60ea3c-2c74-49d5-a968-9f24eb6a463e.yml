@@ -1,0 +1,29 @@
+lastAccountName: SludgyDig43835
+timestamps:
+  login: 1509835634935
+  lastteleport: 1509839313652
+  logout: 1509839654491
+ipAddress: 162.231.213.47
+lastlocation:
+  world: world
+  x: 10156.617093965962
+  y: 94.0
+  z: 14374.419448728164
+  yaw: 73.34549
+  pitch: 11.699899
+homes:
+  home:
+    world: world
+    x: 10131.293404456386
+    y: 105.0
+    z: 14403.005477241371
+    yaw: 44.247437
+    pitch: 31.64999
+logoutlocation:
+  world: world
+  x: 10136.6523049617
+  y: 105.0
+  z: 14403.699999988079
+  yaw: 206.54724
+  pitch: 36.600006
+money: '460.0'

@@ -1,0 +1,41 @@
+VoteSites:
+  PlanetMinecraft_com:
+    Enabled: true
+    ServiceSite: PlanetMinecraft.com
+    VoteURL: https://www.planetminecraft.com/server/townyplay/vote/
+    VoteDelay: 1
+    Rewards:
+      Commands:
+      - 'cr givekey %player% VoteChest 1'
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  Minecraft-MP_com:
+    Enabled: true
+    ServiceSite: Minecraft-MP.com
+    VoteURL: http://minecraft-mp.com/server/179036/vote/
+    VoteDelay: 1
+    Rewards:
+      Commands:
+      - 'cr givekey %player% VoteChest 1'
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  TopG_org:
+    Enabled: true
+    ServiceSite: TopG.org
+    VoteURL: http://topg.org/Minecraft/in-476923
+    VoteDelay: 1
+    Rewards:
+      Commands:
+      - 'cr givekey %player% VoteChest 1'
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  Minecraft-Server_net:
+    Enabled: true
+    ServiceSite: Minecraft-Server.net
+    VoteURL: https://minecraft-server.net/vote/townyplay/
+    VoteDelay: 1
+    Rewards:
+      Commands:
+      - 'cr givekey %player% VoteChest 1'
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'

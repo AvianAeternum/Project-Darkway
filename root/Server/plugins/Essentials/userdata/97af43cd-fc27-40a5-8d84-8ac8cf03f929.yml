@@ -1,0 +1,21 @@
+lastAccountName: DrBot
+timestamps:
+  login: 1509681833034
+  lastteleport: 1509682012698
+  logout: 1509682041151
+ipAddress: 75.130.219.106
+lastlocation:
+  world: world
+  x: 11659.888622162525
+  y: 75.0
+  z: 703.591421089737
+  yaw: -127.79968
+  pitch: 0.45001093
+money: '500.0'
+logoutlocation:
+  world: world2
+  x: -270.55974983307175
+  y: 65.0
+  z: 71.77534790889678
+  yaw: -266.64127
+  pitch: -7.7793007

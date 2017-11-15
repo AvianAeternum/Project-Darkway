@@ -1,0 +1,41 @@
+Players:
+  b5ccebaa-0623-4370-af73-0ec985dfa3b0:
+    Name: sgtcazeyt
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: -1
+  3716427e-76ac-4df4-a50a-706618a70f0c:
+    Name: Cory
+    Prefix: '&b'
+    Suffix: '&c'
+    SortPriority: 3
+  c5242c00-a30b-44bf-85d9-ae852ea98cf4:
+    Name: deadway91
+    Prefix: '&4Admin&f '
+    Suffix: ''
+    SortPriority: -1
+  205aafe4-633b-4171-a9d3-36851a3a47be:
+    Name: propertyofdraven
+    Prefix: '&l&6Manager&f '
+    Suffix: ''
+    SortPriority: -1
+  2d6f3050-6da0-4ad3-b3ca-e29fb8346305:
+    Name: Cubismen
+    Prefix: '&6Manager&f '
+    Suffix: ''
+    SortPriority: -1
+  4375d483-6bf1-480e-8327-51b7db8be7fa:
+    Name: Plej
+    Prefix: ''
+    Suffix: ''
+    SortPriority: -1
+  42a0bae4-9a59-412d-ba9c-b5f302628f47:
+    Name: emperorsalt
+    Prefix: '&4Empe&bror&f '
+    Suffix: ''
+    SortPriority: -1
+  dfc9172f-6144-4488-a084-3ea3312c7a94:
+    Name: aeternum
+    Prefix: ''
+    Suffix: ''
+    SortPriority: -1

@@ -1,0 +1,14 @@
+lastOnline=1509831787949
+registered=1509735712129
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=CookiePvp
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

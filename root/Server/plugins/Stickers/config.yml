@@ -1,0 +1,25 @@
+#  +------------------------------------------------------+
+#  |                                                      |
+#  |                  S t i c k e r s                     |
+#  |                                                      |
+#  |                                                      |
+#  +------------------------------------------------------+
+
+
+general:
+  maximumdownloadsize: 3000
+  notificateactions: true
+  removeitem: true
+  savetempstickers: false
+  maximumplaceamount: 0
+  transparentstickers: false
+sticker:
+  decaytime: 60
+  downloadcooldown: 30
+  placecooldown: 15
+permsticker:
+  downloadcooldown: 60
+  placecooldown: 15
+  sellstickers: false
+  priceeach: 100
+  buymessage: You have bought a sticker!

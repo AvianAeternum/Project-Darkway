@@ -1,0 +1,9 @@
+name=
+price=-1.0
+town=TownyPlay
+resident=nooppee
+type=0
+outpost=false
+permissions=residentBuild,residentDestroy,residentSwitch,residentItemUse
+changed=true
+locked=false

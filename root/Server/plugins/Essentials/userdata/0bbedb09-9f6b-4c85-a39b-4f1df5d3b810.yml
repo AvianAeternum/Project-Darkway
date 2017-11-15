@@ -1,0 +1,21 @@
+lastAccountName: Chocci
+timestamps:
+  login: 1509837846434
+  lastteleport: 1509837949265
+  logout: 1509838401369
+ipAddress: 114.75.90.162
+lastlocation:
+  world: world2
+  x: -310.5714381051368
+  y: 66.0
+  z: 123.62455210224812
+  yaw: -12.241272
+  pitch: 16.370686
+money: '500.0'
+logoutlocation:
+  world: world
+  x: 9530.978581086583
+  y: 64.0
+  z: 15346.922589110183
+  yaw: -45.14112
+  pitch: 20.249989

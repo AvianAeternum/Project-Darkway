@@ -1,0 +1,21 @@
+lastAccountName: DeathWeilder
+timestamps:
+  login: 1510496430612
+  logout: 1510496807237
+  lastteleport: 1510319170856
+ipAddress: 83.233.138.215
+lastlocation:
+  world: world2
+  x: -312.8732726601767
+  y: 64.9375
+  z: 101.35353460213761
+  yaw: -76.64994
+  pitch: 12.000001
+money: '500.0'
+logoutlocation:
+  world: world
+  x: 8098.718795242455
+  y: 69.0
+  z: 9169.671475185485
+  yaw: 187.62915
+  pitch: 20.25004

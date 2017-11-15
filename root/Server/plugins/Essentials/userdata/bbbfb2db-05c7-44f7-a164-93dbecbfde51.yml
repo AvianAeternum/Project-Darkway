@@ -1,0 +1,29 @@
+lastAccountName: BornXxXpyscho
+timestamps:
+  login: 1510765770791
+  lastteleport: 1510783907309
+  logout: 1510719557366
+ipAddress: 69.130.144.29
+lastlocation:
+  world: world
+  x: 2706.481785516422
+  y: 79.0
+  z: 563.3000000119209
+  yaw: -76.0596
+  pitch: 37.47762
+money: '5021.82040000000010831'
+homes:
+  home:
+    world: world
+    x: 2709.375650100524
+    y: 78.0
+    z: 555.3000000119209
+    yaw: -41.35376
+    pitch: 15.384198
+logoutlocation:
+  world: world
+  x: 2717.642878140885
+  y: 76.0
+  z: 561.2215584431241
+  yaw: -184.51556
+  pitch: 40.39107

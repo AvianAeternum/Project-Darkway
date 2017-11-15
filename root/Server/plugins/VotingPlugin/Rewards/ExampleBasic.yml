@@ -1,0 +1,41 @@
+# This is a reward file
+# Define rewards in here (Items, commands, etc)
+# File name is the reward name, without file extention
+# This reward is named "ExampleBasic"
+# That is what you put as a reward for other plugins, like VotingPlugin
+# DO NOT HAVE DUPLICATE NAMES!!
+# 
+# Wiki Page: 
+# https://github.com/Ben12345rocks/AdvancedCore/wiki/Reward-files
+# 
+# This is basic reward file
+# You can have multiple reward files that contain all kinds of rewards
+# Below are some basic things you can have, see the advanced example for more
+# 
+# You can just remove values you don't want (just delete it)
+# If you just want money just have a reward file containg only "Money: 100", for example
+# You can simply copy and paste from here what you want
+# in other reward files, that is the way they are designed
+# 
+# Items to give to user
+Items:
+  TRIPWIRE_HOOK:
+    Amount: 1
+    Data: 0
+    Material: TRIPWIRE_HOOK
+    Name: §c[§6Vote §eKey§c]
+    Lore:
+    - §8Right click a VoteChest to obtain rewards!
+    Durability: 0
+    Enchants:
+      ARROW_INFINITE: 10
+Money: 0
+EXP: 100
+Commands:
+  Console:
+  - say %player% was lucky
+  Player:
+  - vote total
+Messages:
+  Player: '&aMessage on reward'
+  Broadcast: '&aThis is a broadcast'

@@ -1,0 +1,34 @@
+SavedNPCs:
+  '5':
+    cooldown: 0
+    customPerms: darkwaay
+    commands: spawn
+  '6':
+    cooldown: 0
+    customPerms: darkwaay
+    commands: spawn
+  '33':
+    cooldown: 0
+    customPerms: 'false'
+    commands: lottery gui
+  '34':
+    cooldown: 0
+    customPerms: noperm
+    commands: warp
+  '37':
+    cooldown: 0
+    customPerms: noperm
+    commands: ah
+  '53':
+    cooldown: 0
+    customPerms: console
+    commands: msg %player% &7Hi &f%player% &7Press the link for more info how to buy
+      your package! &b-&2-&e-&6-&c> &fhttp://townyplay.com &c<&6-&e-&2-&b-
+  '38':
+    cooldown: 0
+    customPerms: noperm
+    commands: buyscratch
+  '64':
+    cooldown: 0
+    customPerms: noperm; noperm
+    commands: /carshop; carshop

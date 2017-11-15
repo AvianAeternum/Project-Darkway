@@ -18,7 +18,7 @@ timings:
   processing:
 
     # The max threads react will use to process incoming data.
-    max-threads: 8
+    max-threads: 32
 
     # Enable processing timings data. If you have trouble with this, disable it.
     enabled: true

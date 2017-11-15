@@ -1,0 +1,145 @@
+diamond:
+  location: world2, -297.569, 68.000, 62.537
+  lines:
+  - 'ICON: diamond'
+goldingot:
+  location: world2, -297.425, 68.000, 64.499
+  lines:
+  - 'ICON: gold ingot'
+lapiz:
+  location: world2, -297.481, 68.200, 66.505
+  lines:
+  - 'ICON: ink sack:4'
+stone:
+  location: world2, -307.442, 68.200, 74.504
+  lines:
+  - 'ICON: stone'
+stonebrick:
+  location: world2, -307.513, 68.200, 72.479
+  lines:
+  - 'ICON: smooth brick'
+oak:
+  location: world2, -307.571, 68.200, 68.529
+  lines:
+  - 'ICON: log'
+brick:
+  location: world2, -297.546, 68.200, 70.495
+  lines:
+  - 'ICON: brick'
+grassblock:
+  location: world2, -297.509, 68.200, 72.495
+  lines:
+  - 'ICON: grass'
+darkoak:
+  location: world2, -307.430, 68.200, 66.543
+  lines:
+  - 'ICON: log 2:1'
+dirt:
+  location: world2, -297.523, 68.200, 74.516
+  lines:
+  - 'ICON: dirt'
+spruce:
+  location: world2, -307.516, 68.200, 64.510
+  lines:
+  - 'ICON: log:1'
+glowstone:
+  location: world2, -297.436, 68.200, 68.522
+  lines:
+  - 'ICON: glowstone'
+birch:
+  location: world2, -307.463, 68.200, 62.533
+  lines:
+  - 'ICON: log:2'
+welcome:
+  location: world2, -266.491, 67.958, 78.817
+  lines:
+  - '&uWelcome to Townyplay!'
+  - '&c--------------------------------'
+  - '&eType /wild for wilderness'
+  - '&c--------------------------------'
+  - '&aBut first, check out our spawn!'
+shop:
+  location: world2, -302.506, 68.718, 84.565
+  lines:
+  - 'ICON: chest'
+  - '&6Welcome to the shop'
+foodshop:
+  location: world2, -293.566, 69.200, 102.509
+  lines:
+  - 'ICON: bread'
+  - '&6Are you hungry?'
+shop2:
+  location: world2, -302.499, 68.200, 60.515
+  lines:
+  - Need more items?
+  - This servers economy is based on the players
+  - Try visit one of the players shops!
+glass:
+  location: world2, -307.486, 68.200, 70.507
+  lines:
+  - 'ICON: glass'
+topdonators:
+  location: world2, -275.473, 69.700, 92.195
+  lines:
+  - '&uTop Donators'
+coming:
+  location: world2, -310.665, 66.728, 132.980
+  lines:
+  - Coming soon..
+votechest:
+  location: world2, -294.500, 68.075, 93.545
+  lines:
+  - '&uVote Chest'
+  - '&u/vote to get keys'
+d1:
+  location: world2, -258.561, 70.200, 89.517
+  lines:
+  - 'ICON: diamond'
+welneth:
+  location: world, 8830.987, 11.200, 10064.071
+  lines:
+  - Enter one of the portals to get to the nether
+dollar50:
+  location: world2, -266.392, 69.531, 154.838
+  lines:
+  - '&u$500'
+comingsoon1:
+  location: world2, -296.512, 67.288, 82.489
+  lines:
+  - Coming Soon
+lootbox3:
+  location: world2, -287.489, 67.342, 85.445
+  lines:
+  - '&u--&e✪&5Lootbox III&e✪&u--'
+lootbox2:
+  location: world2, -291.489, 67.342, 85.474
+  lines:
+  - '&u--&3Lootbox II&u--'
+nether:
+  location: world_nether, 1097.521, 35.000, 1248.000
+  lines:
+  - '&fWelcome to &cThe Nether'
+  - '&u-------------------------'
+  - Be careful here.
+  - '&u-------------------------'
+  - The floor is &cliterally lava.
+testbox:
+  location: spawn, -33.727, 69.123, 248.517
+  lines:
+  - <TextBox>
+wild:
+  location: world2, -266.489, 67.600, 95.038
+  lines:
+  - '&4Exit the spawn'
+wild2:
+  location: world2, -266.491, 67.494, 97.857
+  lines:
+  - '&4Exit the spawn'
+orwild:
+  location: world2, -266.466, 66.971, 95.116
+  lines:
+  - '&3Or type &4/wild'
+story:
+  location: spawn, -47.089, 13.381, 238.514
+  lines:
+  - '&3Your adventure begins here..'

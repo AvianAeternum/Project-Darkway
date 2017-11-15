@@ -1,0 +1,14 @@
+lastOnline=1510239789709
+registered=1510192833352
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=highlands
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

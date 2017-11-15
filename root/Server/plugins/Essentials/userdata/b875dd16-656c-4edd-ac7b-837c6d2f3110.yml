@@ -1,0 +1,29 @@
+lastAccountName: FlamingSwordGirl
+timestamps:
+  login: 1510768598867
+  lastteleport: 1510768859612
+  logout: 1510770056014
+ipAddress: 65.26.192.105
+lastlocation:
+  world: world2
+  x: -266.5058208307628
+  y: 65.0
+  z: 70.52122329693287
+  yaw: 0.058744915
+  pitch: -0.87930554
+money: '695.50'
+logoutlocation:
+  world: world
+  x: -9832.643128318474
+  y: 70.0
+  z: 6548.588372646589
+  yaw: 91.502686
+  pitch: 4.0500245
+homes:
+  home:
+    world: world
+    x: -9885.210495224856
+    y: 11.0
+    z: 6551.701803883072
+    yaw: 83.5505
+    pitch: 32.84998

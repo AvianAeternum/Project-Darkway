@@ -1,0 +1,14 @@
+lastOnline=1510744113677
+registered=1509536789147
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=Ulvsby
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

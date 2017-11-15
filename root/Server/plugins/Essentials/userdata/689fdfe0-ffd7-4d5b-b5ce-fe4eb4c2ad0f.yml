@@ -1,0 +1,36 @@
+lastAccountName: JamesBondage77
+timestamps:
+  login: 1510696980652
+  lastteleport: 1510527166953
+  logout: 1510697002522
+ipAddress: 70.196.8.62
+lastlocation:
+  world: world
+  x: 2709.500028186798
+  y: 69.0
+  z: -21913.073110985802
+  yaw: 180.4431
+  pitch: 5.8499837
+money: '171.77450000000045377'
+homes:
+  north:
+    world: world
+    x: 2709.950127116969
+    y: 69.0
+    z: -21913.416291889094
+    yaw: 355.1931
+    pitch: -6.450019
+  end:
+    world: world
+    x: 611.030840090225
+    y: 39.0
+    z: -16759.329221949076
+    yaw: 266.0929
+    pitch: 37.35
+logoutlocation:
+  world: world
+  x: 2709.500028186798
+  y: 69.0
+  z: -21913.073110985802
+  yaw: 323.24298
+  pitch: 5.5499825

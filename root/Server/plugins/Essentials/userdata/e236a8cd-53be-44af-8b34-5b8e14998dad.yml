@@ -1,0 +1,38 @@
+lastAccountName: nooppee
+timestamps:
+  login: 1510606605558
+  lastteleport: 1510606276698
+  logout: 1510607320823
+  kits:
+    tools: 1510418278252
+ipAddress: 79.102.250.75
+lastlocation:
+  world: world2
+  x: -266.5058208307628
+  y: 65.0
+  z: 70.52122329693287
+  yaw: 0.058744915
+  pitch: -0.87930554
+money: '2321.17550000000000833'
+homes:
+  thend:
+    world: world_the_end
+    x: 101.03934104367553
+    y: 49.0
+    z: 0.6183966206523279
+    yaw: 74.42024
+    pitch: 22.983173
+  endcity:
+    world: world_the_end
+    x: 1261.300000011921
+    y: 119.0
+    z: 1945.300000011921
+    yaw: -58.334854
+    pitch: 27.600039
+logoutlocation:
+  world: world
+  x: -9512.242395290763
+  y: 68.0
+  z: 1715.6486606912106
+  yaw: 60.356705
+  pitch: 21.210093

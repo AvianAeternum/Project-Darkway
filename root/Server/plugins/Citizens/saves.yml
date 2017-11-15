@@ -1,0 +1,272 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 67
+npc:
+  '24':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTA3NTA3MzEzMzgsInByb2ZpbGVJZCI6IjhkNjM3YzYxNGFiMDQ4NzNiNjY0NDQ5ZTcxZTVhODgwIiwicHJvZmlsZU5hbWUiOiJCYWtlciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUyYzEwZmNlOWNmMWI3MjhlZGEyMTFjYzRlZWI4M2U0NWE4MjNjMjFkODQ1ZTU4MWY3ZDU2NmVkMmJjMmJlIn0sIkNBUEUiOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YzNjYTdlZTJhNDk4ZjFiNWQyNThkNWZhOTI3ZTYzZTQzMzE0M2FkZDU1MzhjZjYzYjZhOWI3OGFlNzM1In19fQ==
+      cached-skin-uuid-name: baker
+      cached-skin-uuid: 8d637c61-4ab0-4873-b664-449e71e5a880
+      player-skin-signature: nlrmNgfkiyV2aTbZ8utByilGOoy2+s317nVCxJSyU5gD9Lb8T1iscHQumDMdPgU3MHpwyIQ3M7vbjmSlLf3Q2V/1Oo6GT9OQsxFL/UafPnPtTK1LBhOPRCT8HRx7yX4gi3Rrm5cVDBuppttoGh+JHrVyC/cmUhVwyabwb57b/G3UpEF8+VDnyF2guhWdh99OlwRs/0k4lBr73LWd/Be+EBJhK4QR8Te6rArXBMOqLd7D0MtnG+a5fiffv12c828Phpm6FFuEk66HvitXtMcc9UXgpFGqYprIdyVt5Qhd0ZMwrmFYdeJ/l2KtKl7Sy4mQKi7WoXTnRBU/1MLyP6SFhSviGfy4H/WRFES8RPaO7dpGB0BsSX0N7SMClxzkngE1maAp32uh3nF6VibgX8QRxWyS0qHQPA+0hmUdiUzEuBiC30Et+iuuZAQA5tabjEWTSNRpufKzrgywGIyxVSD0Q52vpzlwpkS0nigfcd0mm98oLLuxsZAsqTDqNSYS8LhWZhmaBEgLBTwK1sHpAWLs+4Hj/ZkGqcT+S7FoWv00+X4Cy3YQQY8kMey5dfp9wKnDfn5zGvTBtAZnChutkVST2oojASsLRizWatntlqdE1+VTSRNykqSrAwf+hz/M7jMKM84s46YeD4ziamNHk2h/q9cOXTOdzhyzYphBb/6kP4k=
+    name: §6Baker
+    uuid: 5101ad6c-ddca-456a-9b49-9e54209c4e68
+    traits:
+      type: PLAYER
+      inventory:
+        '0':
+          type: CAKE
+          amount: 1
+          durability: 0
+          mdata: 0
+      text:
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Are you hungry?
+      location:
+        world: world2
+        x: '-294.4252'
+        y: '65.0'
+        z: '102.3764'
+        yaw: '-94.76364135742188'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      equipment:
+        hand:
+          type: CAKE
+          amount: 1
+          durability: 0
+          mdata: 0
+      speech: chat
+      spawned: true
+      controllable:
+        enabled: false
+        owner_required: false
+      owner:
+        owner: Sandh
+        uuid: 0e418095-75f1-4f92-a0e7-3d73ab2864b9
+    traitnames: equipment,speech,mounttrait,text,owner,gravity,spawned,location,inventory,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '33':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTA3NTA3MzEwMjUsInByb2ZpbGVJZCI6IjAzNmVmZjEwODVjOTQyNzE4ZWU4YjgyZWE4ZmM5ZjUxIiwicHJvZmlsZU5hbWUiOiJMb3R0ZXJ5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZWY4YTllZmU2OWYyYmVlN2E1NTZmZWUyZWZlNDI3NTU5NmNmN2Y4ZDMwYzhhZTE0OGFjY2YxNjdhNWE3YSJ9fX0=
+      cached-skin-uuid-name: lottery
+      cached-skin-uuid: 036eff10-85c9-4271-8ee8-b82ea8fc9f51
+      player-skin-signature: A2awF1CeLZdwvoaXJ+N4hHdYDU7brt08g8ge99P3XvX3dPDG58pzfuB6832yGV3YgzbU2tSZ8dZ/CLKX2ym0Mx9NVq+3nwWX5Eu8MAx5GwUXTpbp0j19mE2oOexYeUpOHRsBl1cefW2hdCMtblmjAtt/0RZcIi73GLdlQww+Mh0UMJx7f9NoUrmaqHdn2NilueAxrkgbF68o8bcRr9hgrkv4PCmeviHRajOEvwNDqAvycvFYGNIpivvGuBFza3qRkLqXDJPYZRlJeCBNQkSPi0T/+uv5zKK2KTTegJRJssUlSWTi4B8HKnZLGs1dB8oHvJ94+cH4Fi1MeJOwh9t3yxqr2pgd65jBow4eO+2bC7EPMneucchTnASGXxjUbxuX1sQKeTJnTGZ9+u724YsGDwPSvFJRhAj6162vpA+kjc6GCMwyEnFb/PoBtgZJnS4spDCvGgnC1WFEgHUM0XSx0gvz3M4OZ31kbv9Rdz2ZY4TlYK6qSmr+EbDuxOXHciQ05/yYtQcXXkICF4qUXaKLYONs2SLdoE14udAXbA2XxHfLFijqumorqn9LjtqK6wbOyIRKrto/5Ep5cjGeKyW/qGwcgL/l8A3E/MQc/FNcL9X2KKcJ9GeRBTrAOEsxlU/1h6aaCAEH9R4Dn2HOsr+UmKjylA9JoxJ1014y4lMFz1w=
+    name: §o§3Lottery
+    uuid: 4bf44ac4-8c47-4ef5-be3b-24bd6e082140
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world2
+        x: '-271.1625'
+        y: '65.0'
+        z: '110.894'
+        yaw: '133.719482421875'
+        pitch: '0.0'
+      type: PLAYER
+      spawned: true
+      text:
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Pssst!! Dont forget to join the lottery! You can also buy tickets by
+            typing /lottery buy "amount"
+      speech: chat
+      owner:
+        owner: Sandh
+        uuid: 0e418095-75f1-4f92-a0e7-3d73ab2864b9
+    traitnames: equipment,speech,mounttrait,text,owner,gravity,spawned,inventory,location,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '34':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTA3NTA3MzE3NjgsInByb2ZpbGVJZCI6ImIzZTc3NDg1ZGQzYjRlYjI5MDVhMzM5ZDUxMmMwZGE1IiwicHJvZmlsZU5hbWUiOiJTcGFjZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDE5MmU1Yjg1NDljOTIyOGZhZDc4NTAxY2E3NGE2M2JlOGY0NGI4ZTViZGYyODExYzExMTllYTNiOWNlMjExIn0sIkNBUEUiOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNzY3ZDQ4MzI1ZWE1MzI0NTYxNDA2YjhjODJhYmJkNGUyNzU1ZjExMTUzY2Q4NWFiMDU0NWNjMiJ9fX0=
+      cached-skin-uuid-name: space
+      cached-skin-uuid: b3e77485-dd3b-4eb2-905a-339d512c0da5
+      player-skin-name: space
+      player-skin-signature: xTavJpD19BEMi3LO0uXLynzPGFLCIFJvDbnhFPWL4PD3bHFMGwA3+1RaKHH12TdzyMe9sa5VZPTdJZpvIx1wi8wGDrlYVnAMCcUsCJPCsjjsjazrOcfyMzqSrkdbarnVQWBXPA4OCiPLoi04qzP/ED5dr86ldZVqJnvOO5QBC8M+ijeSBRHAdM7kyMdRSuDaSD0xDKn0pRm8Fm1MGJ26S3Xl5AVE5CAn7/+5RqXypAZimrvu0eYt7T8DDIur5eZ61KAg/jqL6EXYyO4xpIObNadHipoOGAUNFrbaEmTA0KYoyGURGxe68LR6uqR4zAczZAM5NOnwkzIOZwvkObJVS0phVggP6Q0v//Gvse6y4ltx7nMZJMp8mG7ZP0Yc8zMKqNqShd7lnZ5D1+Q0GlHAYuVYnRBWqzlw64eRJWZEbn211olkMhDNyTzhOE2mnTIzsaMs00AVBIEh1OXClSP7+t58hlU8a1zKFquaVX+y2BF3JAvc2WXiMyvoziADBwgj9RLxxBdEXK/4g/nlsdMIgSdudt0aeRuqPZJX5Qfmy87S3Z1M1ihGgYqypH9tmTFFtEMDVnfC6uko7tfsKNIudfzQ7ptg8V5+IGeq1PldJkSAZbhzsocgU51utv9pB9UFaKoKP2DbuUn89MQY2AkUAWUomindES4YsYa87BLcc+8=
+    name: §5Warp
+    uuid: 6c006939-a987-48cb-9a22-e3924e5f8e9a
+    traits:
+      type: PLAYER
+      gravity:
+        enabled: false
+      location:
+        world: world2
+        x: '-282.4775'
+        y: '65.0'
+        z: '103.5258'
+        yaw: '0.756103515625'
+        pitch: '0.0'
+      spawned: true
+      owner:
+        owner: Sandh
+        uuid: 0e418095-75f1-4f92-a0e7-3d73ab2864b9
+    traitnames: equipment,mounttrait,owner,gravity,spawned,location,inventory,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '37':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTA3NTA3MzE2NDksInByb2ZpbGVJZCI6ImE0N2RmNjY3OGJlOTQ3NTViZjJjOTg1YTFmZGE5NjRiIiwicHJvZmlsZU5hbWUiOiJBdWN0aW9uIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YmEwMTg5NzkyZmU0MTZmMjNkYjRjZmVmNGM5ZmNkNGFiYzQ5NzI3OGRkNWRkZGI5YzVkNmNjNmUyNTIzOTMifX19
+      cached-skin-uuid-name: auction
+      cached-skin-uuid: a47df667-8be9-4755-bf2c-985a1fda964b
+      player-skin-signature: W/kwDE0qZNEDRmJR8PiXJQ2uFZz+NVUUrty+5cmMG29QHlPseEn33mSvEPEbhjftANYs7Fn4JQp7TANLJDJTNPK4hRdFHt+0j4M/slyY7OM5xt5DVS+e8Bv1GFTyo4ribdAkGni1Vbi6k/fEvhbxnD+FDMv1PQyWTI68K5V7rvhP7fS/Q+KSwiMM8TtEdhBwq+jFj2HMnsRvaNky4HN90IZfSb40GG/BdNubHjMqJtClvSR0qvHEJVce10qqyNiJFqbrGd47L0jfo1JM6RxtHwlF6nEMSOeEXOY0QZGeyU4mFu9Z6c6hueyvAWfTmYfsOPgS4ZX8l6Brk8k2oKIAl8CrD6h6S/6DI76vHyVVPzQaB1fFrZEUtvlsywJJJO14yDpg1csQopLUmMwabacIDOgk/07SRpAs2jJd427KLLt7rV7CWmxoi0eGT5wNQW4S1tHjnBB/cpK2dZZRzTmKCbkuV5F3YJtWSBlaRGnLvY0rIwoMCabuOhf1aNiwKkX4KVAFkyjP2mkSEyPJ0hTicJ+uBreicpEA9WFEIw/KzpvRZgM6/w2JJDajtMG+ysQI5I/RD9I4CFLDv+I6cJhuQs1TuSLDjhRtbBQac0G4/F3BKAA1mRHxofnQABrB3gJoCE3tvuAyF1oyxcg3hNkmrmHaXa4L+br1KvPfeZUY0oU=
+    name: §aAuction
+    uuid: e314009b-ec08-458d-a59f-4eb61e873de8
+    traits:
+      spawned: true
+      location:
+        world: world2
+        x: '-278.4175'
+        y: '64.9375'
+        z: '117.3708'
+        yaw: '-178.87945556640625'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      owner:
+        owner: Darkwaay
+        uuid: 49c20566-f724-4be2-8614-f4635fbd43cb
+    traitnames: equipment,mounttrait,owner,gravity,spawned,location,inventory,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '38':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTA3NTA3MzA0ODgsInByb2ZpbGVJZCI6ImExMGExYWUxNGM2OTQ1Zjk4NWE2OGIyY2NhNjhkNjg4IiwicHJvZmlsZU5hbWUiOiJHcmFubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifSwidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YjE5NzkzOWExMjg0M2Q0ZjhmODU3ZGJjYTRjOTQwZDU3ZWM3M2NjZGEzMTkzZTIwYWJiZjg4YWRmY2RhMCJ9fX0=
+      cached-skin-uuid-name: granny
+      cached-skin-uuid: a10a1ae1-4c69-45f9-85a6-8b2cca68d688
+      player-skin-name: granny
+      player-skin-signature: Tzi3rnAeQveB3B3fqkUXR4TevNyMILVjye1oZU1FScwm8R1pHCZF2IekJvtzczlj+3dm7Jo75ZIhdmh/3vJ21Y7Mhc2YdF9LE5ga5h5VddCISvnuVR51HBus4hXI/3QL+6jWJK8mMT9O5q06e0iLqyvg047J2C7JmVVDmB7QiilIbJ88rVJ8aBcDXjNf8L2ogo6AT79/DdA6niHT4qLLRq1GrNMRivu6ZEwxgGqpKSIL3ahPbBQr/XWDmV3OmO2GxHrFq3MybvMGWAKuAmAbAhR15kprLqczDbYBlskspXvL/o/qtyDUEGAN2+X4mG//TL7gMIUFtj1PqPKNYFPxHdoCrCkcX/UeTQ9F/0igE651k9SFDt+r8snzvfej/qIFvcTmdYoa2inAkGv+MxmJ5bwkLRIw5QQx8wh5YZokDy0xO1/ZoYE4GIX3QD1tnMs6cHTz2fOBJ5Oynf+NE39LM/RvGArwlOvo8fxT8ZD9EileWiptGdM3tLdWDIK9Qj9vHCOrhnDSBbaevSa7oBov1ZoDztGK02VJwvBQSuDJkHhc7COA6u7L+F0iKTzWxjQJKEnQTzHsECkcU13Nh7xbY0HOA8xa9G9qsNdlysIxVax+5c0EFd75c0CMxG5e+2lEjyrL8FOBzdROZpRefQjiLjElgyej63w1f8AY1je/d/c=
+    name: Scratchcards
+    uuid: aae2fd11-aeba-4519-8474-f7b51dad9fe9
+    traits:
+      gravity:
+        enabled: false
+      type: PLAYER
+      location:
+        world: world2
+        x: '-266.4153'
+        y: '67.0'
+        z: '154.8505'
+        yaw: '142.3980712890625'
+        pitch: '0.0'
+      spawned: true
+      owner:
+        owner: Sandh
+        uuid: 0e418095-75f1-4f92-a0e7-3d73ab2864b9
+    traitnames: equipment,mounttrait,owner,gravity,spawned,location,inventory,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '63':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTA3NTA3MzA5MTMsInByb2ZpbGVJZCI6IjY2NTZmMTJmYWI1ZjQzMTA4OTYzY2I1YTA2OGM2NmUzIiwicHJvZmlsZU5hbWUiOiJCb2xhcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2IxMWUwODZkODhjYmU3ZjU2ODJhNjliMmIxZjhkODY0MThkM2JhZWNkY2IxNTczN2YzNDYyZjRiZjM0NmNhIn19fQ==
+      cached-skin-uuid-name: bolas
+      cached-skin-uuid: 6656f12f-ab5f-4310-8963-cb5a068c66e3
+      player-skin-signature: SrY/EzdU3AeFHcOO0KfNLwQ6PEavCihlrEDOu3IfH89PQ9DRnuKtAJW1AIM2X2ln7GxIqaLPSSmT/lnSlHCY2/cNJ+kYfQx4Rn3/4VhYj7559LTpdUOrva0PjS0nUbB0I/+OBzr1fhIUBUVj5zCl5zEyqEX19PYp8GkvMnDczAC81JoAh8fCVrgZJxgxmTcE1Rt5+0GkupjvtgXyxevKgudAzpo+KCQyddH0wuXcyOU7pBqX5RbWXfkBC+sNQWomvLO8W0xHQsoD6E6jiGnR7m6BfizKMd8Aes8ghr+GbWPVjx6zg0MEAQrB41GUCn31/4DdDff5DH2jqy7YYbuT5MJ0Sx0vLncOXUOLTqVqu73gz/r5szSsXHVqEYVnL36ddDphGKP+UgZE5lDSmYt/XQ70wnrdMrpkeDFyzxg0acvmNOGJHPBS34Rxj+arULY9fdOkNCN1DmFekNJ73t0IvN958Akc8ZkzE45yufXMaOyd4vL1nVpyQDFj/3+rbOwe3nUc/4mQf/YkRXjyy+gQ4PAE4Lg1bjMokqTfvbdPM1MsV2HMJBLHD6bJx+g2E32A/cLAaX9ixy/6g3JRNK2e4/CV6bxSbC11vToxEX1jZFQMLpQY/+F/lpPjiUeLp2WeOqPbjIecuEjORBAnC1Im3/5pLXHi0afIhFea2bKlWBM=
+    name: Bolas
+    uuid: 7ef09fe8-ab45-4f6f-9836-45bce0dc09b7
+    traits:
+      location:
+        world: world2
+        x: '-328.4229'
+        y: '68.5'
+        z: '115.7527'
+        yaw: '-72.54861450195312'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: PropertyOfDraven
+        uuid: 205aafe4-633b-4171-a9d3-36851a3a47be
+    traitnames: equipment,mounttrait,owner,gravity,spawned,inventory,location,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '64':
+    name: carseller
+    uuid: 38873211-8529-4d08-97bb-8b7ff7b7a806
+    traits:
+      type: PLAYER
+      spawned: true
+      location:
+        world: world2
+        x: '-297.5235'
+        y: '66.0'
+        z: '143.4559'
+        yaw: '148.55807495117188'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      owner:
+        owner: Darkwaay
+        uuid: 49c20566-f724-4be2-8614-f4635fbd43cb
+    traitnames: equipment,mounttrait,owner,gravity,spawned,inventory,location,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '66':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTA3NTA3MzA2MDcsInByb2ZpbGVJZCI6ImY5ZWQ5ODhlYzNmNzRhZTc5NjE1NDE4MjQ3NWYwNDFmIiwicHJvZmlsZU5hbWUiOiJTdXBlciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjExZTE4ZDljMjFkYWEzMzU4YmQzNWYxZWVlODZhMWYwMjQzYWNiOTQ3ZTU2ZWMzMmRkMTc3YzliNDM2ZCJ9fX0=
+      cached-skin-uuid-name: super
+      cached-skin-uuid: f9ed988e-c3f7-4ae7-9615-4182475f041f
+      player-skin-name: super
+      player-skin-signature: Yvl73m/cL6MIvK3JT4pvaEXS0/+eycSq+qnTfPFPVJA/9hxJQ5jR15NDdSJIZioOVSaX6VlVCpyPne5uoq4H8w+bkPI2CtilYwy7vRMHd/mxFp80XrRNuSq28g3eR4lDFjbsOveLtaxGXiJi5l+4G598IRTfhdue81RJOG6u/mXLOphWW/v6T4ilgixhyKirZxXCFEvPlnZtF3gAriYMahKedtOEvwVOqtHsIF31/9LcDJd5t8yjq1zZNjtdcIuA6G8zLXmnzXxcInAlA+iuUnTc+jQrk1Bn4pdDUlYa3NcNOov6spbkSuDOWCW2W4nrZ7ycFD9sExa6+JNVUk7/lB8GW2vd3V9atlPL9UWvztjJPRdAlg8IXbYruU1zxr9wXSFkQKNyw4dmin7Yk191W7MXBLhtNOC9eBt2S1FMqgmCK9iAGnDxc4pO6WQhlK0TTWXKxbC8w0zk6moYQ442dzzx3LuKZR5mJFi4KdmZZQD9GJCwio3VlA9tik4dW4kkUckQ68bvPmi89YyPDceBBv4YO0pA0CSma3xoUacsL90RJKDOseeybv/yqp4vHnb83si/2A4VdShHi8n9eegRQbZDVbAPHmgUrWTUMBPCM14K7CPVfpCor6TCACysTRBl+b3NWYEgv6Avc/yCcY0aMhGhj1IkRRwtrBlAy33t7cc=
+    name: VIPGUY
+    uuid: 264dfe58-c513-4c6f-9fde-a9b560e586ac
+    traits:
+      inventory:
+        '0':
+          type: DIAMOND
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      equipment:
+        hand:
+          type: DIAMOND
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: world2
+        x: '-259.2697'
+        y: '65.0'
+        z: '92.7827'
+        yaw: '129.0606231689453'
+        pitch: '0.0'
+      owner:
+        owner: Darkwaay
+        uuid: 49c20566-f724-4be2-8614-f4635fbd43cb
+    traitnames: equipment,mounttrait,owner,gravity,spawned,inventory,location,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

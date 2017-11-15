@@ -1,0 +1,20 @@
+lastAccountName: Bones
+timestamps:
+  login: 1510673883774
+  logout: 1510675162334
+ipAddress: 73.248.198.99
+lastlocation:
+  world: world2
+  x: -267.11037775770205
+  y: 68.0
+  z: 92.07237953413104
+  yaw: 16.096924
+  pitch: 13.65
+money: '729.0'
+logoutlocation:
+  world: world2
+  x: -286.30000001192093
+  y: 65.0
+  z: 101.14171877404418
+  yaw: -225.82031
+  pitch: 8.762515

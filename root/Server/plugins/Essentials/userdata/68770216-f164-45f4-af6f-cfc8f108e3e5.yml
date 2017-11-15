@@ -1,0 +1,29 @@
+lastAccountName: earlobe2
+timestamps:
+  login: 1509831583006
+  lastteleport: 1509832486283
+  logout: 1509833581252
+ipAddress: 124.190.113.137
+lastlocation:
+  world: world2
+  x: -305.55317548239054
+  y: 65.0
+  z: 67.68472479966512
+  yaw: 223.4047
+  pitch: 12.299993
+money: '940.00'
+homes:
+  home:
+    world: world
+    x: -7758.658933844635
+    y: 64.0
+    z: -14805.4917128107
+    yaw: 272.0995
+    pitch: -89.24999
+logoutlocation:
+  world: world
+  x: -7856.472758943596
+  y: 83.0
+  z: -14829.031417398586
+  yaw: 156.75098
+  pitch: 37.05008

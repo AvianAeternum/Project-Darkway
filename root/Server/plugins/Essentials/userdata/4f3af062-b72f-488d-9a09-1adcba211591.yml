@@ -1,0 +1,36 @@
+lastAccountName: iDieInPvp
+timestamps:
+  login: 1509831416139
+  lastteleport: 1509831519322
+  logout: 1509831786958
+ipAddress: 100.7.67.131
+lastlocation:
+  world: world
+  x: 14616.322730444615
+  y: 75.0
+  z: 5487.848222399445
+  yaw: -39.14276
+  pitch: 7.200029
+money: '198.50'
+homes:
+  t:
+    world: world
+    x: 14632.640460887402
+    y: 82.0
+    z: 5509.6770989563765
+    yaw: -267.29446
+    pitch: 13.650002
+  m:
+    world: world
+    x: 14497.90018242955
+    y: 11.0
+    z: 5551.300000011921
+    yaw: -32.09375
+    pitch: 38.100147
+logoutlocation:
+  world: world
+  x: 14639.742262703161
+  y: 78.0
+  z: 5567.821627222479
+  yaw: -240.00171
+  pitch: 16.20016

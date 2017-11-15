@@ -1,0 +1,110 @@
+# This is a reward file
+# Define rewards in here (Items, commands, etc)
+# File name is the reward name, without file extention
+# This reward is named "ExampleAdvanced"
+# That is what you put as a reward for other plugins, like VotingPlugin
+# DO NOT HAVE DUPLICATE NAMES!!
+# 
+# Wiki Page: 
+# https://github.com/Ben12345rocks/AdvancedCore/wiki/Reward-files
+# 
+# You can just remove values you don't want (just delete it)
+# If you just want money just have a reward file containg only "Money: 100", for example
+# 
+# This is the advanced example, if you only want an item or command then look
+# at the basic example, you can simply copy and paste from here what you want
+# in other reward files, that is the way they are designed
+# 
+# This will delay the reward file from running
+Delayed:
+  Enabled: false
+  Hours: 1
+  Minutes: 0
+  Seconds: 0
+Timed:
+  Enabled: false
+  Hour: 12
+  Minute: 0
+Chance: 40
+Random:
+  Chance: 40
+  PickRandom: true
+  Rewards: []
+  FallBack: []
+RequirePermission: false
+Permission: AdvancedCore.Reward.ExampleAdvanced
+Javascript:
+  Enabled: false
+  Expression: ''
+  TrueRewards: []
+  FalseRewards: []
+Javascripts: []
+Priority: []
+ChoiceRewards:
+  Enabled: false
+  Rewards:
+  - Iron
+  - Gold
+Worlds:
+- world1
+- world2
+- world2
+- world
+- world_nether
+- world_the_end
+RewardType: BOTH
+ForceOffline: false
+Potions:
+  ABSORPTION:
+    Duration: 100
+    Amplifier: 1
+Title:
+  Enabled: false
+  Title: '&cTitle!'
+  SubTitle: '&aSubTitle!'
+  FadeIn: 10
+  ShowTime: 50
+  FadeOut: 10
+BossBar:
+  Enabled: false
+  Message: '&aBossbar'
+  Color: BLUE
+  Style: SOLID
+  Progress: 0.5
+  Delay: 30
+Sound:
+  Enabled: false
+  Sound: BLOCK_ANVIL_USE
+  Volume: 1.0
+  Pitch: 1.0
+Effect:
+  Enabled: false
+  Effect: EXPLOSION
+  Data: 1
+  Particles: 10
+  Radius: 5
+Firework:
+  Enabled: false
+  Power: 2
+  Colors:
+  - GRAY
+  - SILVER
+  FadeOutColor:
+  - RED
+  Trail: true
+  Flicker: true
+  Types:
+  - BALL_LARGE
+ActionBar:
+  Message: '&cThis is an actionbar!'
+  Delay: 30
+OnlyOneLucky: false
+Lucky:
+  '10':
+    Messages:
+      Player: You were lucky and received an extra $100!
+    Money: 100
+  '50':
+    Messages:
+      Player: You were lucky and received an extra $1000!
+    Money: 1000

@@ -1,0 +1,14 @@
+lastOnline=1510759086446
+registered=1509754721732
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=TownyPlay
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

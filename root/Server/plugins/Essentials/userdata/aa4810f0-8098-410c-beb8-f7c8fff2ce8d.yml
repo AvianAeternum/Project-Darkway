@@ -1,0 +1,31 @@
+lastAccountName: _Dr_dan
+timestamps:
+  login: 1510413796902
+  kits:
+    tools: 1510413910916
+  lastteleport: 1510414134115
+  logout: 1510414631902
+ipAddress: 24.68.213.214
+lastlocation:
+  world: world2
+  x: -303.2306630179844
+  y: 65.0625
+  z: 73.18383943857538
+  yaw: 0.05458554
+  pitch: 5.699993
+money: '636.7155000000000061'
+homes:
+  home:
+    world: world
+    x: 12717.592248757162
+    y: 11.0
+    z: -6080.6220963280575
+    yaw: 86.70073
+    pitch: -1.7993697
+logoutlocation:
+  world: world
+  x: 12549.560776883742
+  y: 11.0
+  z: -6088.533622810289
+  yaw: 91.95013
+  pitch: 18.60072

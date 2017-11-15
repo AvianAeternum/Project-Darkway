@@ -1,0 +1,14 @@
+lastOnline=1510780580071
+registered=1509544161914
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=Oldtown
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

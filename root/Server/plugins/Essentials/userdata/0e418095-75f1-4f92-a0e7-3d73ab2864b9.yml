@@ -1,0 +1,40 @@
+lastAccountName: Sandh
+timestamps:
+  login: 1510722377166
+  logout: 1510722392298
+  lastteleport: 1510655480730
+  kits:
+    color: 1509407461845
+ipAddress: 155.4.133.80
+afk: false
+logoutlocation:
+  world: world
+  x: 25308.624539853314
+  y: 92.61340456856357
+  z: 36428.56829779382
+  yaw: 218.42955
+  pitch: 49.74659
+lastlocation:
+  world: world2
+  x: -299.0127622630278
+  y: 81.0
+  z: 106.69999998807907
+  yaw: -28.999483
+  pitch: 25.204622
+homes:
+  home:
+    world: world
+    x: -130.1867219717889
+    y: 65.0
+    z: 220.7547393089562
+    yaw: 195.74248
+    pitch: 2.4948723
+  survival:
+    world: world
+    x: 11160.002747943772
+    y: 65.0
+    z: 16.51497117780273
+    yaw: 286.3053
+    pitch: 19.581839
+money: '2714.0'
+socialspy: true

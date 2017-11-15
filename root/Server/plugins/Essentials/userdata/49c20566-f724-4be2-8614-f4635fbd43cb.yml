@@ -1,0 +1,54 @@
+lastAccountName: Darkwaay
+timestamps:
+  login: 1510780580074
+  lastteleport: 1510785072422
+  logout: 1510780557315
+  kits:
+    tools: 1510268573279
+ipAddress: 88.206.182.3
+afk: false
+lastlocation:
+  world: world
+  x: 2705.141888583147
+  y: 79.0
+  z: 563.4742430938683
+  yaw: 274.87463
+  pitch: 29.400023
+homes:
+  spawn:
+    world: world2
+    x: -287.2509179966266
+    y: 84.0
+    z: 129.45578117411006
+    yaw: 34.096252
+    pitch: 30.000015
+  pvp:
+    world: world
+    x: 844.007850540695
+    y: 71.0
+    z: 580.6999999880791
+    yaw: -357.9004
+    pitch: 7.800026
+  bedrockroom:
+    world: world
+    x: 846.8657896002238
+    y: 35.0
+    z: 628.6268590694035
+    yaw: 286.05008
+    pitch: 16.20009
+  wild:
+    world: world
+    x: 7155.921888543455
+    y: 64.0
+    z: 4849.288301598892
+    yaw: -357.89893
+    pitch: 14.099878
+logoutlocation:
+  world: world2
+  x: -293.585820860567
+  y: 65.0
+  z: 87.98175746957588
+  yaw: 144.50726
+  pitch: 6.6500106
+money: '277.00'
+socialspy: true

@@ -1,0 +1,29 @@
+lastAccountName: Gwis
+timestamps:
+  login: 1509755876567
+  lastteleport: 1509758523741
+  logout: 1509758614025
+ipAddress: 213.114.236.251
+lastlocation:
+  world: world2
+  x: -289.98992879406796
+  y: 65.0
+  z: 115.13402189308367
+  yaw: 175.55835
+  pitch: 17.120668
+money: '462.50'
+homes:
+  home:
+    world: world
+    x: 11161.150609575481
+    y: 64.0
+    z: 16.58007414281413
+    yaw: -28.241169
+    pitch: 23.849941
+logoutlocation:
+  world: world
+  x: 11159.300000011921
+  y: 65.0
+  z: 16.49380189896914
+  yaw: -72.19094
+  pitch: 49.34995

@@ -1,0 +1,24 @@
+lastAccountName: PropertyOfDraven
+timestamps:
+  login: 1509755682810
+  logout: 1509755721482
+  lastteleport: 1509736688134
+ipAddress: 213.114.236.251
+lastlocation:
+  world: world
+  x: 14553.300000011921
+  y: 69.99192767973877
+  z: 5497.74894722832
+  yaw: 38.553284
+  pitch: 9.600099
+logoutlocation:
+  world: world_nether
+  x: 1107.8978035096495
+  y: 36.00456117922994
+  z: 1239.295047704818
+  yaw: 34.049377
+  pitch: 20.399973
+afk: false
+money: '780.0'
+homes: {}
+socialspy: true

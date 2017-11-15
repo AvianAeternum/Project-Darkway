@@ -1,0 +1,29 @@
+lastAccountName: Jackbusters
+timestamps:
+  login: 1510785372765
+  logout: 1510709413612
+  lastteleport: 1510622172233
+ipAddress: 172.4.182.171
+lastlocation:
+  world: world
+  x: 10130.147740304854
+  y: 105.0
+  z: 14404.462547027626
+  yaw: 269.70044
+  pitch: 46.499977
+money: '0.5610000000000154'
+logoutlocation:
+  world: world
+  x: 10127.69467532859
+  y: 104.0
+  z: 14390.36529715552
+  yaw: 358.19983
+  pitch: 18.749922
+homes:
+  home:
+    world: world_the_end
+    x: -5052.111780063818
+    y: 59.0
+    z: 4470.838877508733
+    yaw: -328.20856
+    pitch: 40.350063
