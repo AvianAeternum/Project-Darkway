@@ -1,0 +1,36 @@
+lastAccountName: Cubismen
+timestamps:
+  login: 1510413853122
+  logout: 1510414004177
+  lastteleport: 1510413880103
+ipAddress: 85.229.49.234
+lastlocation:
+  world: world
+  x: -10782.867434466669
+  y: 17.0
+  z: -4251.800893682719
+  yaw: -122.55133
+  pitch: 6.8999066
+money: '1582.9310999999999634'
+logoutlocation:
+  world: world2
+  x: -303.77807426594916
+  y: 64.9375
+  z: 129.00644690803273
+  yaw: -195.3917
+  pitch: 13.070525
+homes:
+  home:
+    world: world
+    x: -10779.695555411512
+    y: 17.0
+    z: -4246.57217202381
+    yaw: -259.65503
+    pitch: 2.5510175
+  home1:
+    world: world
+    x: -10783.304717838091
+    y: 17.0
+    z: -4243.091462118556
+    yaw: -121.49057
+    pitch: 0.4503694

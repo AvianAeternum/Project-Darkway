@@ -1,0 +1,20 @@
+lastAccountName: Olotolo
+timestamps:
+  login: 1509823920221
+  lastteleport: 1509823962862
+  logout: 1509823987612
+ipAddress: 31.18.115.235
+lastlocation:
+  world: world2
+  x: -261.2017007091655
+  y: 65.0
+  z: 72.2487940812001
+  yaw: -38.491257
+  pitch: 2.4206946
+logoutlocation:
+  world: world2
+  x: -302.517142729028
+  y: 65.0625
+  z: 73.87243292896247
+  yaw: 30.354858
+  pitch: 5.8499875

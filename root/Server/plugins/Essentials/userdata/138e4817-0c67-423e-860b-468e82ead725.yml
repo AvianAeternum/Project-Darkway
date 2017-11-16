@@ -1,0 +1,21 @@
+lastAccountName: unlimited_pug
+timestamps:
+  login: 1510238666170
+  lastteleport: 1510239646708
+  logout: 1510239789595
+ipAddress: 209.191.209.240
+lastlocation:
+  world: world2
+  x: -266.50128720130306
+  y: 65.0625
+  z: 73.45240016900762
+  yaw: 0.058744915
+  pitch: -0.87930554
+money: '64.0'
+logoutlocation:
+  world: world2
+  x: -279.36224171573093
+  y: 64.9375
+  z: 115.83824419668157
+  yaw: -9.241333
+  pitch: 42.9207

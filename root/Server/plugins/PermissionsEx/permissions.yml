@@ -1,0 +1,302 @@
+groups:
+  default:
+    options:
+      default: true
+      prefix: '&8'
+    permissions:
+    - Cars.openShop
+    - Cars.getCar
+    - Cars.type.BLACK
+    - Cars.type.YELLOW
+    - Cars.type.MAGENTA
+    - multiverse.portal.exempt.nether
+    - multiverse.portal.exempt.netherspawn
+    - multiverse.portal.access.netherspawn
+    - multiverse.portal.access.nether
+    - multiverse.portal.exempt.wildspawn
+    - multiverse.portal.access.wildspawn
+    - multiverse.portal.exempt.pvp
+    - multiverse.portal.access.pvp
+    - multiverse.portal.exempt.pvpspawn
+    - multiverse.portal.access.pvpspawn
+    - scratch.buy
+    - essentials.help
+    - essentials.rules
+    - essentials.motd
+    - essentials.back
+    - essentials.depth
+    - essentials.delhome
+    - essentials.home
+    - essentials.kit
+    - essentials.kit.tools
+    - essentials.kits.tools
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.msg
+    - essentials.ping
+    - essentials.r
+    - essentials.rules
+    - essentials.seen
+    - essentials.sethome
+    - essentials.sethome.multiple.default
+    - essentials.signs.use.disposal
+    - essentials.signs.use.sell
+    - essentials.signs.use.buy
+    - essentials.signs.use.warp
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.pay
+    - modifyworld.*
+    - towny.wild.*
+    - towny.town.*
+    - towny.nation.*
+    - towny.town.spawn.*
+    - towny.command.town.*
+    - towny.town.new
+    - jobs.use
+    - jobs.max.2
+    - jobs.command.browse
+    - jobs.command.top
+    - jobs.command.stats
+    - jobs.command.join
+    - jobs.command.leave
+    - jobs.command.leaveall
+    - jobs.command.info
+    - jobs.command.help
+    - jobs.command.archive
+    - null
+    - lottery.buy
+    - lottery.status
+    - lottery.gui
+    - crazyauctions.access
+    - crazyauctions.view
+    - crazyauctions.sell
+    - crazyauctions.sell.5
+    - crazyauctions.bid
+    - essentials.warps.*
+    - essentials.warp
+    - essentials.warp.list
+    - crazycrates.access
+    - shopchest.create.buy
+    - shopchest.create.protected
+    - shopchest.create
+    - shopchest.create.sell
+    - shopchest.buy
+    - shopchest.sell
+    - heavyspleef.admin.start
+    - discordsrv.chat
+    - discordsrv.help
+    - townywands.gui.resgui
+    - townywands.gui.mayor
+    - townywands.gui.resident
+  Mod:
+    inheritance:
+    - default
+    options:
+      prefix: '&5Mod&f '
+    permissions:
+    - essentials.clearinventory
+    - essentials.ban
+    - essentials.clearinventory.others
+    - essentials.ban.exempt
+    - essentials.ban.notify
+    - essentials.ban.offline
+    - essentials.banip
+    - essentials.burn
+    - essentials.fly
+    - essentials.heal
+    - essentials.heal.cooldown.bypass
+    - essentials.kick
+    - essentials.kick.exempt
+    - essentials.mute
+    - essentials.mute.exempt
+    - essentials.tempban
+    - essentials.tempban.exempt
+    - essentials.tempban.offline
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.warp
+    - essentials.warp.*
+    - essentials.warp.[warpname]
+    - essentials.warp.list
+    - essentials.warp.otherplayers
+    - towny.admin
+    - nte.moderator
+  Manager:
+    permissions:
+    - '*'
+    - nte.manager
+    - -mcmmo.perks.all
+    options:
+      prefix: '&6Manager&f '
+  Admin:
+    permissions:
+    - '*'
+    - nte.admin
+    - -nte.owner
+    - -mcmmo.perks.all
+    options:
+      prefix: '&4Admin&f '
+  Owner:
+    permissions:
+    - MoreItems.use
+    - '*'
+    - essentials.*
+    - nte.owner
+    - -mcmmo.perks.all
+    options:
+      prefix: '&6Owner&f '
+  VIP:
+    inheritance:
+    - default
+    options:
+      prefix: '&2VIP&f '
+    permissions:
+    - essentials.workbench
+    - essentials.sethome.multiple.vip
+    - jobs.max.3
+    - lottery.ticketlimit.premium
+    - crazyauctions.sell.10
+    - keepitems.keep
+    - playervaults.amount.1
+    - playervaults.size.3
+    - playervaults.commands.use
+    - nte.vip
+  VIP+:
+    inheritance:
+    - default
+    - VIP
+    options:
+      prefix: '&2VIP&e+&f '
+    permissions:
+    - essentials.sethome.multiple.vip+
+    - crazyauctions.sell.15
+    - essentials.back
+    - essentials.feed
+    - essentials.enderchest
+    - playervaults.amount.2
+    - playervaults.size.6
+    - nte.vip+
+  VIP++:
+    inheritance:
+    - default
+    - VIP+
+    options:
+      prefix: '&2VIP&e+&d+&f '
+    permissions:
+    - essentials.sethome.multiple.vip++
+    - crazyauctions.sell.20
+    - essentials.hat
+    - keepitems.keepxp
+    - essentials.heal
+    - playervaults.amount.4
+    - nte.vip++
+  Ultra-VIP:
+    inheritance:
+    - default
+    - VIP++
+    options:
+      prefix: '&6ULT&9RA&f '
+    permissions:
+    - essentials.sethome.multiple.Ultra-VIP
+    - essentials.fly
+    - crazyauctions.sell.30
+    - essentials.repair
+    - essentials.nick
+    - essentials.nick.color
+    - playervaults.amount.8
+    - nte.ultravip
+  Emperor:
+    inheritance:
+    - default
+    - Ultra-VIP
+    options:
+      prefix: ''
+    permissions:
+    - nte.emperor
+schema-version: 1
+users:
+  0e418095-75f1-4f92-a0e7-3d73ab2864b9:
+    group:
+    - Owner
+    permissions:
+    - permissions.*
+    options:
+      name: Sandh
+  49c20566-f724-4be2-8614-f4635fbd43cb:
+    group:
+    - Owner
+    options:
+      name: Darkwaay
+  205aafe4-633b-4171-a9d3-36851a3a47be:
+    group:
+    - Manager
+    options:
+      name: PropertyOfDraven
+  40b21f1b-905b-4922-b94d-20d23c1f4d2a:
+    group:
+    - VIP+
+    options:
+      name: privelegiy
+    permissions:
+    - essentials.fly
+  c5242c00-a30b-44bf-85d9-ae852ea98cf4:
+    group:
+    - Admin
+    options:
+      name: Deadway91
+  0add58ed-511d-4e96-b088-8c2605a6c5da:
+    group:
+    - default
+    options:
+      name: Bamme1
+  95fb7586-3234-4460-91ae-e3b4feabd428:
+    group:
+    - VIP+
+    options:
+      name: TortyrSvensk
+  57c7f158-12dd-4019-9969-fb220631d595:
+    group:
+    - Manager
+    options:
+      name: Avispider
+  a80850cd-09d3-460e-a968-2dcb44f4b89c:
+    group:
+    - default
+    options:
+      name: Joheen90
+  ead0cc81-7e1c-4c2a-a2e1-b081b2cc4e3c:
+    group:
+    - VIP++
+    options:
+      name: Lynxer
+  2d6f3050-6da0-4ad3-b3ca-e29fb8346305:
+    group:
+    - Manager
+    options:
+      name: Cubismen
+  4375d483-6bf1-480e-8327-51b7db8be7fa:
+    group:
+    - default
+    options:
+      name: Plej
+  emperorsalt:
+    group:
+    - default
+  dfc9172f-6144-4488-a084-3ea3312c7a94:
+    group:
+    - Emperor
+    options:
+      name: Aeternum

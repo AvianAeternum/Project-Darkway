@@ -1,0 +1,29 @@
+lastAccountName: FrostyDinoYT
+timestamps:
+  login: 1510237111160
+  logout: 1510237778404
+  lastteleport: 1510237690645
+ipAddress: 213.128.180.144
+lastlocation:
+  world: world2
+  x: -260.3967688969649
+  y: 65.0
+  z: 73.45925323968763
+  yaw: -40.74597
+  pitch: 14.549993
+logoutlocation:
+  world: world2
+  x: -267.11300976525905
+  y: 65.0625
+  z: 82.43217106606315
+  yaw: -115.89519
+  pitch: 12.149994
+homes:
+  home:
+    world: world2
+    x: -255.5629742090825
+    y: 65.0
+    z: 106.5767535787405
+    yaw: -269.19382
+    pitch: 87.75001
+money: '700.0'

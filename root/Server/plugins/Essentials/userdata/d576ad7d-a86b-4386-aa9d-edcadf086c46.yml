@@ -1,0 +1,29 @@
+lastAccountName: XGames_YT
+timestamps:
+  login: 1509831581956
+  lastteleport: 1509831632260
+  logout: 1509831764436
+ipAddress: 100.7.67.131
+lastlocation:
+  world: world2
+  x: -285.3281868368823
+  y: 64.9375
+  z: 111.2882065791474
+  yaw: -237.24133
+  pitch: -2.2293098
+homes:
+  home:
+    world: world
+    x: 14627.770106736441
+    y: 82.0
+    z: 5510.675089355158
+    yaw: -19.795769
+    pitch: 20.100056
+money: '460.0'
+logoutlocation:
+  world: world2
+  x: -277.6308503797508
+  y: 64.9375
+  z: 110.52563360195182
+  yaw: -42.54117
+  pitch: 0.3207065

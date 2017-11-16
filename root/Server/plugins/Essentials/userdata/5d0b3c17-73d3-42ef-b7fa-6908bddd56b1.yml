@@ -1,0 +1,31 @@
+lastAccountName: boshiyet
+timestamps:
+  login: 1510261206764
+  logout: 1510262807578
+  kits:
+    tools: 1510258808861
+  lastteleport: 1510262443011
+ipAddress: 206.188.64.177
+lastlocation:
+  world: world
+  x: -12952.657979375446
+  y: 53.0
+  z: -4478.030758007332
+  yaw: -109.04352
+  pitch: 42.30016
+logoutlocation:
+  world: world
+  x: -12979.75215797166
+  y: 68.0
+  z: -4512.035278003775
+  yaw: -61.05373
+  pitch: 27.599794
+money: '170.0'
+homes:
+  home:
+    world: world
+    x: -12977.03788846764
+    y: 67.0
+    z: -4516.3176908001315
+    yaw: -275.10287
+    pitch: 24.749983

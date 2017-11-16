@@ -1,0 +1,12 @@
+world2:
+- KEY_CRATE:-291:66:85:TestKista
+- KEY_CRATE:-289:66:85:CSGOKey
+- KEY_CRATE:-295:66:93:VoteChest
+- KEY_CRATE:-291:66:85:Tier2Chest
+- KEY_CRATE:-289:66:85:Tier3Chest
+- KEY_CRATE:-291:66:85:Lootbox_II
+- KEY_CRATE:-297:74:122:TreasureChest
+- KEY_CRATE:-292:66:85:LootboxII
+- KEY_CRATE:-288:66:85:LootboxIII
+spawn:
+- KEY_CRATE:-34:68:248:Testbox

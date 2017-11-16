@@ -1,0 +1,14 @@
+lastOnline=1510785372763
+registered=1509679024584
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailTown=
+title=
+surname=
+town=highlands
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=denyAll

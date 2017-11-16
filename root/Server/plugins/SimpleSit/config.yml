@@ -1,0 +1,45 @@
+# Check for updates:
+# It's recommended to keep 'check-for-updates' true, because updates fix many bugs and will help performance.
+# - true : When an operators joins or the server restarts SimpleSit will check for updates. Only operators are alerted when an update is found.
+# - false : SimpleSit will not check for updates.
+check-for-updates: true
+
+# The permission default sets who will get the 'simplesit.sit' permission by default
+# - 'true' : Everyone can use the /sit command
+# - 'op' : Only operators (OPs) can use the /sit command
+# - 'not_op' : Everyone but operators (OPs) can use the /sit command
+# - 'false' : No one can use the /sit command unless the 'simplesit.sit' permission is given 
+# to them via a permissions plugin.
+sit-permission-default: true
+
+# All messages can be colored with '&' plus colorID. Color IDS: http://minecraft.gamepedia.com/Formatting_codes
+
+# The message sent to the player when they sit down
+sitdown-message: '&bYou are now sitting.'
+
+# The message sent when the player gets up from sitting.
+situp-message: '&bYou are no longer sitting.'
+
+# The message sent when the player is unable to sit (In air)
+sitfail-message: '&cYou cannot sit in the air!'
+
+# Lay permission default
+# The permission default sets who will get the 'simplesit.lay' permission by default
+# - 'true' : Everyone can use the /lay command
+# - 'op' : Only operators (OPs) can use the /lay command
+# - 'not_op' : Everyone but operators (OPs) can use the /lay command
+# - 'false' : No one can use the /lay command unless the 'simplesit.lay' permission is given 
+# to them via a permissions plugin.
+lay-permission-default: true
+
+# The message sent when the player lies down.
+laydown-message: '&bYou are now laying.'
+
+# The message sent when the player is no longer laying.
+layup-message: '&bYou are no longer laying.'
+
+# The message sent when the player is unable to lay down. (In air)
+layfail-message: '&cYou cannnot lay in the air!'
+
+# The message sent when the player tries to lay on top of another player.
+layoverlap-message: '&cSomeone is already laying here.'

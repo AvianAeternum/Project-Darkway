@@ -1,0 +1,36 @@
+lastAccountName: _Isa9000_
+timestamps:
+  login: 1510553469499
+  lastteleport: 1510352562722
+  logout: 1510553604070
+ipAddress: 73.240.64.157
+lastlocation:
+  world: world2
+  x: -261.9465021332951
+  y: 65.0
+  z: 73.31289444120624
+  yaw: 296.45886
+  pitch: -2.3793051
+money: '596.00'
+homes:
+  home:
+    world: world
+    x: -7214.300000011921
+    y: 69.0
+    z: 4975.300000011921
+    yaw: -330.0006
+    pitch: 56.40001
+  two:
+    world: world
+    x: -10820.445309142326
+    y: 65.0
+    z: -1512.3967887678184
+    yaw: -344.4488
+    pitch: 16.95001
+logoutlocation:
+  world: world
+  x: -7216.227753723674
+  y: 69.0
+  z: 4974.310820415803
+  yaw: 221.55118
+  pitch: 7.6500063

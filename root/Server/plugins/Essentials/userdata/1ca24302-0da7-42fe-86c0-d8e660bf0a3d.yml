@@ -1,0 +1,20 @@
+lastAccountName: dvsq
+timestamps:
+  login: 1510180518955
+  logout: 1510180600642
+ipAddress: 151.177.108.36
+lastlocation:
+  world: world2
+  x: -267.11037775770205
+  y: 68.0
+  z: 92.07237953413104
+  yaw: 16.096924
+  pitch: 13.65
+logoutlocation:
+  world: world
+  x: 10127.239492885305
+  y: 104.0
+  z: 14401.537985579867
+  yaw: 222.6004
+  pitch: 19.499964
+money: '465.0'

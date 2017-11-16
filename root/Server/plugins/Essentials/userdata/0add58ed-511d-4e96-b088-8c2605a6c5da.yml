@@ -1,0 +1,30 @@
+lastAccountName: Bamme1
+timestamps:
+  login: 1510744064503
+  lastteleport: 1510659266656
+  logout: 1510744113679
+ipAddress: 81.228.207.167
+lastlocation:
+  world: world
+  x: 11006.26752582725
+  y: 63.0
+  z: -5042.223196602126
+  yaw: -78.56492
+  pitch: 16.388481
+logoutlocation:
+  world: world2
+  x: -292.66320915471846
+  y: 65.0
+  z: 91.59160410265974
+  yaw: 82.292816
+  pitch: 9.310866
+money: '5234.71370000000008633'
+afk: false
+homes:
+  home:
+    world: world
+    x: 10979.638680408085
+    y: 72.0
+    z: -4970.886553341536
+    yaw: -70.303986
+    pitch: 24.298477

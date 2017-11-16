@@ -1,0 +1,20 @@
+lastAccountName: Adamant
+timestamps:
+  login: 1510277465766
+  logout: 1510277850042
+ipAddress: 47.17.228.202
+lastlocation:
+  world: world2
+  x: -267.11037775770205
+  y: 68.0
+  z: 92.07237953413104
+  yaw: 16.096924
+  pitch: 13.65
+money: '20.0'
+logoutlocation:
+  world: world2
+  x: -227.7251598463292
+  y: 62.0
+  z: 465.69999998807907
+  yaw: 311.00983
+  pitch: 30.60005

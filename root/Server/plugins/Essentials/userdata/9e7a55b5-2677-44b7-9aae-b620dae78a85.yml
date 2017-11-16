@@ -1,0 +1,20 @@
+lastAccountName: Zwic
+timestamps:
+  login: 1509737176075
+  logout: 1509737342562
+ipAddress: 104.53.68.45
+lastlocation:
+  world: world2
+  x: -267.11037775770205
+  y: 68.0
+  z: 92.07237953413104
+  yaw: 16.096924
+  pitch: 13.65
+money: '500.0'
+logoutlocation:
+  world: world
+  x: 13600.205008406274
+  y: 68.0
+  z: 6606.99354091837
+  yaw: -83.5462
+  pitch: 4.9266815

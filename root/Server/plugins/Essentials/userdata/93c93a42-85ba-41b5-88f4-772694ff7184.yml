@@ -1,0 +1,29 @@
+lastAccountName: ReflexiveElm51
+timestamps:
+  login: 1510435568801
+  lastteleport: 1510417158866
+  logout: 1510435611911
+ipAddress: 24.220.95.252
+lastlocation:
+  world: world
+  x: 10166.530886907885
+  y: 76.0
+  z: 14431.29594866689
+  yaw: 101.48687
+  pitch: 43.636703
+money: '708.00'
+homes:
+  home:
+    world: world
+    x: 10167.178813721406
+    y: 76.0
+    z: 14433.10630718459
+    yaw: -188.41206
+    pitch: 19.35108
+logoutlocation:
+  world: world2
+  x: -282.44292939728376
+  y: 64.9375
+  z: 108.6385382001227
+  yaw: 121.52472
+  pitch: 39.919014

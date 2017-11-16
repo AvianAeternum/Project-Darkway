@@ -1,0 +1,36 @@
+lastAccountName: XX_DiamondDropin
+timestamps:
+  login: 1510699468759
+  lastteleport: 1510699708094
+  logout: 1510701032959
+ipAddress: 50.26.208.83
+lastlocation:
+  world: world
+  x: 7169.939306066303
+  y: 68.0
+  z: 4760.151943920193
+  yaw: 93.964806
+  pitch: 11.6736
+money: '375.8929999999998165'
+homes:
+  home:
+    world: world
+    x: 10183.16705480273
+    y: 74.0
+    z: 14404.173071367004
+    yaw: -10.683381
+    pitch: 80.027954
+  end_:
+    world: world_the_end
+    x: -3428.978631641523
+    y: 142.0
+    z: 2040.6999999880788
+    yaw: 350.49207
+    pitch: 1.526397
+logoutlocation:
+  world: world
+  x: 2715.6841770542364
+  y: 62.0
+  z: -4184.5216388222125
+  yaw: -118.69568
+  pitch: -9.532822

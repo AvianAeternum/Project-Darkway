@@ -1,0 +1,31 @@
+lastAccountName: FinaTyX
+timestamps:
+  login: 1510581770973
+  lastteleport: 1510581824336
+  logout: 1510582306672
+  kits:
+    tools: 1510503185164
+ipAddress: 79.102.250.75
+lastlocation:
+  world: world2
+  x: -211.6940977226613
+  y: 198.0
+  z: 152.57868820765364
+  yaw: -22.53212
+  pitch: 23.442337
+money: '100.0'
+logoutlocation:
+  world: world
+  x: -9431.726353189577
+  y: 69.0
+  z: 1710.7751450131582
+  yaw: -0.12524414
+  pitch: 10.584191
+homes:
+  raid:
+    world: world2
+    x: -211.1681821526949
+    y: 198.0
+    z: 152.2849134767318
+    yaw: -22.53212
+    pitch: 23.442337

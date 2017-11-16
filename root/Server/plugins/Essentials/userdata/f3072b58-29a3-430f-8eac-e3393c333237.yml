@@ -1,0 +1,29 @@
+lastAccountName: CoookieWizard
+timestamps:
+  login: 1509922508562
+  lastteleport: 1509826283117
+  logout: 1509922519781
+ipAddress: 97.98.1.222
+lastlocation:
+  world: world
+  x: 14714.021865770594
+  y: 79.0
+  z: 5565.444427454009
+  yaw: 125.10477
+  pitch: 19.349943
+money: '1169.00'
+homes:
+  home:
+    world: world
+    x: 14616.5
+    y: 74.0
+    z: 5514.5
+    yaw: -232.49442
+    pitch: 46.05
+logoutlocation:
+  world: world
+  x: 14613.82107186308
+  y: 74.0
+  z: 5513.475819004453
+  yaw: -260.39432
+  pitch: 20.25

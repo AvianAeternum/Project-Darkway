@@ -1,0 +1,20 @@
+lastAccountName: Avispider
+timestamps:
+  login: 1509655449292
+  logout: 1509655882530
+ipAddress: 90.227.46.84
+lastlocation:
+  world: world2
+  x: -267.11037775770205
+  y: 68.0
+  z: 92.07237953413104
+  yaw: 16.096924
+  pitch: 13.65
+logoutlocation:
+  world: world2
+  x: -228.78424041841194
+  y: 75.18187038724776
+  z: 95.47602373917044
+  yaw: 174.80919
+  pitch: 16.220871
+money: '497.00'

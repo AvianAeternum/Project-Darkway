@@ -1,0 +1,22 @@
+#----------------------------------------
+# Vanilla Block place hook
+# Player block place in minecraft
+# 
+#----------------------------------------
+
+# DO NOT EDIT THIS CONFIG VERSION!
+config: 1
+
+
+# Do you want to enable this event hook?
+# Enabling this hook will trigger tab
+# when the player places a block
+# for the player that placed a block
+enabled: false
+
+# tab to trigger
+tab: "default"
+
+
+# The time to display the board on the screen (in millseconds)
+onscreen-time: 5000

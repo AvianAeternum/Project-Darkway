@@ -1,0 +1,30 @@
+lastAccountName: TortyrSvensk
+timestamps:
+  login: 1510400152961
+  lastheal: 1510409756891
+  lastteleport: 1510351949386
+  logout: 1510410433292
+ipAddress: 83.253.60.50
+lastlocation:
+  world: world
+  x: 1258.9063288574416
+  y: 110.0
+  z: 10891.835474756012
+  yaw: 69.89966
+  pitch: 27.150024
+money: '9901.294000000000033429'
+homes:
+  home:
+    world: world
+    x: 1263.7751660775336
+    y: 110.0
+    z: 10892.237500011921
+    yaw: 80.2497
+    pitch: 34.05006
+logoutlocation:
+  world: world
+  x: -9512.27919729226
+  y: 69.0
+  z: 1715.6760014125311
+  yaw: 191.40912
+  pitch: 18.741741

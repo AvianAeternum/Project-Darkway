@@ -1,0 +1,46 @@
+Groups:
+  Owner:
+    Permission: nte.owner
+    Prefix: '&l&6Owner&f '
+    Suffix: ''
+    SortPriority: -1
+  Manager:
+    Permission: nte.manager
+    Prefix: '&l&6Manager&f '
+    Suffix: ''
+    SortPriority: -1
+  Admin:
+    Permission: nte.admin
+    Prefix: '&l&4Admin&f '
+    Suffix: '&f'
+    SortPriority: 1
+  Moderator:
+    Permission: nte.moderator
+    Prefix: '&l&5Mod&f '
+    Suffix: '&f'
+    SortPriority: 2
+  ULTRA-VIP:
+    Permission: nte.ultravip
+    Prefix: '&eUlt&9ra&f '
+    Suffix: ''
+    SortPriority: -1
+  VIP++:
+    Permission: nte.vip++
+    Prefix: '&l&2VIP&e+&d+&f '
+    Suffix: ''
+    SortPriority: -1
+  VIP+:
+    Permission: nte.vip+
+    Prefix: '&l&2VIP&e+&f '
+    Suffix: ''
+    SortPriority: -1
+  VIP:
+    Permission: nte.vip
+    Prefix: '&l&2VIP&f '
+    Suffix: ''
+    SortPriority: -1
+  Emperor:
+    Permission: nte.emperor
+    Prefix: '&4Empe&bror&f '
+    Suffix: ''
+    SortPriority: -1

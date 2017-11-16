@@ -1,0 +1,36 @@
+lastAccountName: ForbiddenJoy
+timestamps:
+  login: 1510722253174
+  lastteleport: 1510723074810
+  logout: 1510749924796
+ipAddress: 68.53.79.34
+lastlocation:
+  world: world2
+  x: -295.53229970102745
+  y: 65.0
+  z: 90.6795667616333
+  yaw: -194.79128
+  pitch: -10.629301
+money: '567.54200000000004923'
+homes:
+  home:
+    world: world
+    x: 2862.5516933574613
+    y: 71.0
+    z: 797.823364422258
+    yaw: -177.83005
+    pitch: 12.600067
+  town:
+    world: world
+    x: 2873.948993244201
+    y: 70.0
+    z: 727.4749789931549
+    yaw: -271.4296
+    pitch: 30.300055
+logoutlocation:
+  world: world
+  x: 2853.137367511938
+  y: 70.0
+  z: 726.6370913128599
+  yaw: -154.73022
+  pitch: 83.85001

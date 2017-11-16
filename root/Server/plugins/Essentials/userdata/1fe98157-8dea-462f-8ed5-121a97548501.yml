@@ -1,0 +1,29 @@
+lastAccountName: Kottizh
+timestamps:
+  login: 1510776442107
+  lastteleport: 1510782535549
+  logout: 1510783897572
+ipAddress: 90.231.221.141
+lastlocation:
+  world: world
+  x: 10088.414539250653
+  y: 82.0
+  z: 14406.317284089362
+  yaw: 112.500275
+  pitch: 46.349995
+money: '13263.32699999999907712'
+homes:
+  home:
+    world: world
+    x: -10160.956083034444
+    y: 41.0
+    z: 3099.8755506687853
+    yaw: -280.05383
+    pitch: 32.250107
+logoutlocation:
+  world: world
+  x: 10086.9242272007
+  y: 87.0
+  z: 14407.695416705883
+  yaw: -35.250523
+  pitch: 54.149956

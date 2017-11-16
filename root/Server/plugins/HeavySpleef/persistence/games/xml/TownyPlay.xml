@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<game name="TownyPlay" world="world2" enable-rating="true">
+  <flags>
+    <flag name="anticamping"/>
+    <flag name="spawnpoint">
+      <world>world2</world>
+      <x>-204.82805468417425</x>
+      <y>82.0</y>
+      <z>133.1737352903349</z>
+      <yaw>-269.71567</yaw>
+      <pitch>1.1891063</pitch>
+    </flag>
+    <flag name="queuelobby">
+      <world>world2</world>
+      <x>-222.2783272887156</x>
+      <y>88.20000004768372</y>
+      <z>131.69999998807907</z>
+      <yaw>-85.707985</yaw>
+      <pitch>28.071852</pitch>
+    </flag>
+    <flag name="lobby">
+      <world>world2</world>
+      <x>-225.41103049461958</x>
+      <y>82.0</y>
+      <z>132.3824766476904</z>
+      <yaw>-0.4885702</yaw>
+      <pitch>2.712794</pitch>
+    </flag>
+    <flag name="leave-item"/>
+    <flag name="countdown">10</flag>
+    <flag name="shovels"/>
+  </flags>
+  <floors>
+    <floor name="floor_3"/>
+    <floor name="floor_2"/>
+    <floor name="floor_1"/>
+    <floor name="floor_0"/>
+  </floors>
+  <extensions>
+    <extension name="lobby-wall">
+      <start>
+        <x>-225</x>
+        <y>83</y>
+        <z>134</z>
+        <world>world2</world>
+      </start>
+      <end>
+        <x>-227</x>
+        <y>83</y>
+        <z>134</z>
+      </end>
+    </extension>
+    <extension name="start-sign">
+      <prefix-type>SPLEEF</prefix-type>
+      <location>
+        <world>world2</world>
+        <x>-227</x>
+        <y>83</y>
+        <z>134</z>
+      </location>
+    </extension>
+  </extensions>
+  <deathzones/>
+</game>

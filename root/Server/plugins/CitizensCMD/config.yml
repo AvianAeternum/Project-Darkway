@@ -1,0 +1,29 @@
+# Citizens CMD Plugin by Mateus Moreira aka iPSYKO
+# @LichtHund
+# Version 1.1.0
+# 
+# Enables Checking for update.
+CheckUpdates: true
+CooldownDisplayType: 0
+prefix: '%black%[%gold%Crates%black%] %dark_grey%'
+locale: en
+updater: true
+debug: false
+menu:
+  name: Crate Menu
+  amountDisplay:
+    item: chest 1 %gold%Crate %white%You_have_%camount%_left.
+  openCrateDisplay:
+    item: diamond_block 1 %green%Open_Crate
+  keyDisplay:
+    item: tripwire_hook 1 %gold%Keys %white%You_have_%kamount%_left.
+pushback:
+  enabled: true
+  modifiers:
+    x: 1.0
+    y: 1.0
+    z: 1.0
+roulette:
+  length: 5
+csgo:
+  length: 6
