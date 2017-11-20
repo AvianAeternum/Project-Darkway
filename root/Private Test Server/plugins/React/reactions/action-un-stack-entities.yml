@@ -1,0 +1,17 @@
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+component:
+
+  # ABOUT Un-Stack Entities
+  # Unstack all entities stacked and prevent those entities from being re-stacked.
+  # 
+  # You can disable Un-Stack Entities here.
+  enable: true
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 100

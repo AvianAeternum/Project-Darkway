@@ -1,0 +1,67 @@
+action-instability-cause:
+  high:
+
+    # High liquids flow counts?
+    liquid: 4096
+    chunk:
+
+      # High chunk gens/s counts?
+      generation: 18
+    drop:
+
+
+      # High counts?
+      count: 1024
+
+    # High redstone counts?
+    redstone: 4096
+    memory:
+      chunk:
+
+
+        # A high percent?
+        percent: 0.9
+
+
+      # A high percent?
+      percent: 0.8
+    worldedit:
+
+      # High world edit BPS?
+      bps: 10000
+
+    # High tnt/s counts?
+    tnt: 256
+
+    # Low SPMS
+    spms: 1
+    entity:
+
+
+      # High counts?
+      count: 8192
+
+  # Slow down flyers who are flying at 
+  # very fast speeds until chunk lag has stopped
+  slow-fast-flyers-temporarily: true
+  low:
+
+    # What is considered a low tps? Lag?
+    tps: 16.8
+component:
+
+  # ABOUT Instability Trace
+  # If any sort of instability is detected, react begins to collect evidence and determine the right thing to do. 
+  # 
+  # You can disable Instability Trace here.
+  enable: true
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 10
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1

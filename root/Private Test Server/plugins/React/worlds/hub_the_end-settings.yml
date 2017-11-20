@@ -1,0 +1,59 @@
+save:
+  timings:
+
+    # How often to wait before saving ABSOLUTE MIN TIME WAIT
+    min-wait-minutes: 5
+
+    # How often to wait before saving ABSOLUTE MAX TIME WAIT
+    max-wait-minutes: 30
+  conditions:
+
+    # Save while lagging to get it out of the way instead of
+    # disrupting smooth tps
+    save-while-lagging: true
+
+    # Try to save right after java collects garbage to 
+    # merge lag spikes instead of multiple spikes.
+    save-after-gc: true
+
+  # Custom auto save feature for this world?
+  auto-save: false
+  before-save:
+
+    # Before saving, cull excess entities to lessen the save job load.
+    cull-entities: true
+
+    # Before saving, cull excess drops to lessen the save job load.
+    cull-drops: true
+
+    # Before saving, purge chunks to lessen the save job load.
+    purge-chunks: true
+entities:
+  assume-no-side-effects:
+  - ARMOR_STAND
+  - EXPERIENCE_ORB
+
+  # Disable mob stacking in just this world if mob stacking is turned on.
+  disable-stacking: false
+physics:
+
+  # REQUIRES FAST ASYNC WORLD EDIT
+  # Increases the performance of tnt explosions by using fawe to handle blocks.
+  async-tnt: false
+
+  # Fast falling sand?
+  fast-fall: false
+
+  # Fast leaf decay?
+  fast-decay: false
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+chunks:
+
+  # Deny the server to create new chunks. 
+  # THIS ALLOWS PLAYERS TO FALL OFF EMPTY CHUNKS IF THEY CAN GET THERE!
+  prevent-new-chunks: false
