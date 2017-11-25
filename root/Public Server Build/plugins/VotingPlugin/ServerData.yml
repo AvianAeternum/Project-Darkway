@@ -1,0 +1,15 @@
+PluginVersions:
+  VotingPlugin: 5.10.6
+VotingPlugin:
+  Version: 'git-Spigot-d21162c-82f3b02 (MC: 1.12.2)'
+  ServiceSites:
+  - PlanetMinecraft.com
+  - Minecraft-MP.com
+  - TopG.org
+  - Minecraft-Server.net
+  VoteParty:
+    Total: 0
+    Voted: []
+PrevDay: 25
+PrevWeek: 47
+Month: NOVEMBER

@@ -1,0 +1,80 @@
+lastAccountName: Aeternum
+timestamps:
+  login: 1511615031827
+  logout: 1511615041344
+  lastteleport: 1510718689199
+  lastheal: 1510695253111
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 2709.6807561967844
+  y: 100.24214304910697
+  z: 587.3594391231629
+  yaw: 298.61588
+  pitch: 30.80286
+logoutlocation:
+  world: world
+  x: 297.3026975245341
+  y: 90.40853520521732
+  z: 288.04671144537286
+  yaw: -24.774141
+  pitch: 33.14998
+money: '77386.375'
+homes:
+  home:
+    world: world2
+    x: -503.36800141976335
+    y: 63.0
+    z: 208.43742249782838
+    yaw: 92.19458
+    pitch: -0.9291866
+  a:
+    world: world
+    x: -9448.69262334978
+    y: 69.0
+    z: 1691.954551337647
+    yaw: 180.56482
+    pitch: 16.666508
+  end:
+    world: world_the_end
+    x: -2339.0400188359936
+    y: 57.0
+    z: -53.35213666192051
+    yaw: -57.29229
+    pitch: 9.668931
+  slutland:
+    world: world_the_end
+    x: -2466.471886112829
+    y: 70.0
+    z: 705.6861501190208
+    yaw: -332.84247
+    pitch: 20.699825
+  endbasealpha:
+    world: world_the_end
+    x: -2503.5
+    y: 63.0
+    z: 718.5
+    yaw: 106.216156
+    pitch: -43.5
+  jungle:
+    world: world
+    x: -4911.699999988079
+    y: 67.0
+    z: -1503.4749953881555
+    yaw: 235.48152
+    pitch: 90.0
+  aliens:
+    world: world
+    x: -3320.13858858179
+    y: 69.0
+    z: -2055.8473555443434
+    yaw: -5.4305367
+    pitch: 51.292885
+  mansion:
+    world: world
+    x: 3127.014426102315
+    y: 73.0625
+    z: -2108.1026233314865
+    yaw: -324.76608
+    pitch: 13.131011
+nickname: §fAeternum
