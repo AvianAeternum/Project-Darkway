@@ -1,0 +1,124 @@
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+action-cull-entities:
+  notify:
+
+    enable-non-react-admins: false
+
+    # Message to notify culls.
+    message: '&cRemoved %amount%x %type%'
+
+
+    # ABOUT Mob Culler
+    # Removes excess mobs from highly populated chunks. Additionally prevents spawning if the limit is reached.
+    # 
+    # You can disable Mob Culler here.
+    enable: true
+  filter:
+
+    # Ignore tamed entities
+    ignore-tamed-entities: true
+  selective-bias:
+
+    # Cull Hostile mobs before passives
+    passive-bias: true
+
+    # Cull mobs in dark lighting first
+    contrasted-bias: true
+
+  # The maximum allowed entities per chunk. 
+  # More entities will spawn, but other entities may be removed.
+  max-entities-per-chunk: 16
+  cullable:
+  - EXPERIENCE_ORB
+  - AREA_EFFECT_CLOUD
+  - ELDER_GUARDIAN
+  - WITHER_SKELETON
+  - STRAY
+  - LEASH_HITCH
+  - SNOWBALL
+  - FIREBALL
+  - SMALL_FIREBALL
+  - SPLASH_POTION
+  - PRIMED_TNT
+  - FALLING_BLOCK
+  - FIREWORK
+  - HUSK
+  - SPECTRAL_ARROW
+  - SHULKER_BULLET
+  - DRAGON_FIREBALL
+  - ZOMBIE_VILLAGER
+  - SKELETON_HORSE
+  - ZOMBIE_HORSE
+  - DONKEY
+  - MULE
+  - EVOKER_FANGS
+  - EVOKER
+  - VEX
+  - VINDICATOR
+  - ILLUSIONER
+  - MINECART_COMMAND
+  - MINECART
+  - MINECART_CHEST
+  - MINECART_FURNACE
+  - MINECART_TNT
+  - MINECART_HOPPER
+  - MINECART_MOB_SPAWNER
+  - CREEPER
+  - SKELETON
+  - SPIDER
+  - GIANT
+  - ZOMBIE
+  - SLIME
+  - GHAST
+  - PIG_ZOMBIE
+  - ENDERMAN
+  - CAVE_SPIDER
+  - SILVERFISH
+  - BLAZE
+  - MAGMA_CUBE
+  - ENDER_DRAGON
+  - WITHER
+  - BAT
+  - WITCH
+  - ENDERMITE
+  - GUARDIAN
+  - SHULKER
+  - PIG
+  - SHEEP
+  - COW
+  - CHICKEN
+  - SQUID
+  - WOLF
+  - MUSHROOM_COW
+  - SNOWMAN
+  - OCELOT
+  - IRON_GOLEM
+  - HORSE
+  - RABBIT
+  - POLAR_BEAR
+  - LLAMA
+  - LLAMA_SPIT
+  - PARROT
+  - VILLAGER
+  - LINGERING_POTION
+  - FISHING_HOOK
+  - LIGHTNING
+  - WEATHER
+  - TIPPED_ARROW
+component:
+
+
+  # ABOUT Mob Culler
+  # Removes excess mobs from highly populated chunks. Additionally prevents spawning if the limit is reached.
+  # 
+  # You can disable Mob Culler here.
+  enable: true
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 100

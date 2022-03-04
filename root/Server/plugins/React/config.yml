@@ -1,0 +1,99 @@
+startup:
+
+  # Startup verbose for extra information.
+  verbose: false
+
+  # Use multiple threads to handle react processing
+  multicore: false
+
+  # Run the garbage collector after startup to prevent memory issues from reloading and startup.
+  prevent-memory-leaks: true
+
+  # Some systems can have trouble with system profiling. 
+  # If you have weird issues, try disabling this first.
+  system-profiling: true
+
+  # Use multiple threads to handle react processing
+  # If multicore is off, this feature wont be used.
+  multicore-threads: 1
+
+  # Should we track usage statistics?
+  anonymous-statistics: true
+display:
+
+  # Permission denied message.
+  no-permission: '&cInsufficient Permission'
+
+  # Here you can configure the tag for react. Uses color codes.
+  tag: '&b[&8React&b]:'
+monitor:
+
+  # The interval in ticks to send scoreboard packets to monitors.
+  scoreboard-interval: 10
+
+  # Bolden the text on the monitor when in bright daylight. This is intended to make the text clearer when looking at bright colors on the screen.
+  title-bolding: false
+
+  # When enabled, holding shift while monitoring will show more accurate numbers.
+  shift-accuracy: true
+
+  # Allow title message verbose? Players still have to turn it on if it is enabled.
+  allow-title-verbose: true
+  ticking:
+
+    # The default tickrate for the monitor. Lower = faster.
+    # This will only take effect if dynamic ticking is off.
+    base: 1
+
+    # Slows down monitoring tickrates depending on how demanding it is to the server.
+    dynamic: true
+
+  # Inform other players with the permission react.monitor 
+  # when a player manually executes an action.
+  broadcast-monitors: true
+react-remote:
+
+  # This is for remote access to the react server
+  enable: false
+
+  # Request interval. 
+  # USERS HAVE BEEN MOVED TO THE react-users FOLDER!
+  interval: 100
+
+  # Make sure the port is open. You may get a failed to bind to port message if it isnt. DONT USE 25565!
+  port: 8118
+
+  # Should React automagically attempt to restart the server should it fail?
+  auto-restart: false
+heartbeat:
+
+  save-before-crash: true
+lang: en
+maps:
+
+  display-static: false
+debug-messages: true
+runtime:
+
+  # Disable all reactions. Just sampling basically.
+  disable-reactions: false
+splash-screen: true
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+commands:
+  override:
+
+    # Override the /tps and /lag commands for more accurate information
+    tps: true
+
+    # Override the /mem and /memory for more accurate information
+    memory: true
+messages:
+
+  # If any sort of instability is detected, react begins to collect evidence and determine the right thing to do. 
+  notify-instability: true
+write-world-configs: true

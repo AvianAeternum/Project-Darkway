@@ -1,0 +1,32 @@
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+action-collect-garbage:
+  auto:
+    conditions:
+
+      # Will not run auto GC unless
+      # more than the given amount of chunks are loaded/unloaded first.
+      # This does not mean that there has to be that many chunks loaded
+      # Just that many chunks had to have been read from the disk before gc.
+      chunkloads: 65536
+
+      # Will not run auto GC unless at least 15 minutes have passed.
+      minutes-per: 15
+
+    # Enable automatic garbage collection based on the limits.
+    enabled: true
+component:
+
+  # ABOUT Garbage Collection
+  # This takes out the virtual trash (sometimes frees memory up). Warning this will freeze the server for 1-5 seconds. This is only used automatically if it is configured to do so.
+  # 
+  # You can disable Garbage Collection here.
+  enable: true
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 20

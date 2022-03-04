@@ -1,0 +1,244 @@
+define:
+  herbs:
+  - SEEDS
+  - SUGAR
+  - SUGAR_CANE
+  - SUGAR_CANE_BLOCK
+  - MELON_SEEDS
+  - PUMPKIN_SEEDS
+  - CROPS
+  - SAPLING
+  - VINE
+  - BROWN_MUSHROOM
+  - YELLOW_FLOWER
+  - INK_SACK
+  - RED_MUSHROOM
+  - HUGE_MUSHROOM_1
+  - HUGE_MUSHROOM_2
+  - CACTUS
+  - DEAD_BUSH
+  - LONG_GRASS
+  - LEAVES
+  - LEAVES_2
+  other:
+  - GOLDEN_APPLE
+  - ENDER_PEARL
+  - ENCHANTED_BOOK
+  rubble:
+  - DIRT
+  - GRASS
+  - COBBLESTONE
+  - COBBLE_WALL
+  - COBBLESTONE_STAIRS
+  - MOSSY_COBBLESTONE
+  - BEDROCK
+  - SANDSTONE
+  - SAND
+  - CLAY
+  - STAINED_CLAY
+  - HARD_CLAY
+  - STONE
+  lumber:
+  - WOOD
+  - LOG
+  - LOG_2
+  - FENCE
+  - FENCE_GATE
+  - ACACIA_STAIRS
+  - BIRCH_WOOD_STAIRS
+  - JUNGLE_WOOD_STAIRS
+  - SPRUCE_WOOD_STAIRS
+  cheap-materials:
+  - TNT
+  - IRON_FENCE
+  - NETHER_FENCE
+  - NETHERRACK
+  - OBSIDIAN
+  - STICK
+  - CARROT_STICK
+  - WOOL
+  - CARPET
+  - BED
+  - BED_BLOCK
+  - WRITTEN_BOOK
+  - BOOK
+  - BOOK_AND_QUILL
+  - BOOKSHELF
+  - CLAY_BALL
+  - SNOW_BALL
+  - SNOW
+  - SNOW_BLOCK
+  rare-materials:
+  - DIAMOND
+  - EMERALD
+  - IRON_INGOT
+  - GOLD_INGOT
+  - REDSTONE
+  - GLOWSTONE
+  - GLOWSTONE_DUST
+  - COAL_BLOCK
+  - COAL
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - LAPIS_BLOCK
+  - QUARTZ
+  - QUARTZ_BLOCK
+  ore:
+  - QUARTZ_ORE
+  - LAPIS_ORE
+  - DIAMOND_ORE
+  - EMERALD_ORE
+  - COAL_ORE
+  - GOLD_ORE
+  - IRON_ORE
+  - REDSTONE_ORE
+  food:
+  - COOKED_BEEF
+  - GRILLED_PORK
+  - COOKED_CHICKEN
+  - COOKED_FISH
+  cheap-tools-armor:
+  - WOOD_AXE
+  - WOOD_HOE
+  - WOOD_PICKAXE
+  - WOOD_SPADE
+  - WOOD_SWORD
+  - WOOD_PLATE
+  - WOOD_BUTTON
+  - LEATHER_BOOTS
+  - LEATHER_CHESTPLATE
+  - LEATHER_HELMET
+  - LEATHER_LEGGINGS
+  expensive-tools-armor:
+  - DIAMOND_AXE
+  - DIAMOND_BARDING
+  - DIAMOND_BOOTS
+  - DIAMOND_CHESTPLATE
+  - DIAMOND_HELMET
+  - DIAMOND_LEGGINGS
+  - DIAMOND_HOE
+  - DIAMOND_PICKAXE
+  - DIAMOND_SPADE
+  - DIAMOND_SWORD
+  - GOLD_AXE
+  - GOLD_BARDING
+  - IRON_BARDING
+  - GOLD_BOOTS
+  - GOLD_CHESTPLATE
+  - GOLD_HELMET
+  - GOLD_LEGGINGS
+  - GOLD_NUGGET
+  - GOLD_PICKAXE
+  - GOLD_SPADE
+  - GOLD_SWORD
+  - IRON_AXE
+  - IRON_BOOTS
+  - IRON_CHESTPLATE
+  - IRON_HELMET
+  - IRON_LEGGINGS
+  - IRON_HOE
+  - IRON_PICKAXE
+  - IRON_SPADE
+  - IRON_SWORD
+  mob-drops:
+  - SULPHUR
+  - EGG
+  - LEATHER
+  - RAW_BEEF
+  - RAW_CHICKEN
+  - RAW_FISH
+  - FEATHER
+  - PORK
+  - ROTTEN_FLESH
+worth:
+
+
+  # The worth of Cheap tools and armor (wood/leather & stone)
+  cheap-tools-armor: 0.7
+
+
+  # The worth of expensive tools and armor
+  expensive-tools-armor: 1.0
+
+  # The worth of Undefined items in this config
+  undefined: 1.2
+
+
+  # The worth of wood logs sticks and more.
+  lumber: 0.5
+
+
+  # The worth of Rare stuff that you really wouldnt want to loose.
+  rare-materials: 0.8
+
+
+  # The worth of plants, seeds and stuff.
+  herbs: 0.2
+
+
+  # The worth of food, cooked and raw.
+  food: 0.4
+
+
+  # The worth of rubble. Keep this lower than more expensive stuff
+  # unless you want to remove expensive stuff first :P
+  rubble: 0.1
+
+
+  # The worth of Other things that cant be categorized.
+  other: 1.1
+
+
+  # The worth of common drops from mobs.
+  mob-drops: 0.3
+
+
+  # The worth of Cheap stuff that probobly wasnt that hard to get.
+  cheap-materials: 0.6
+
+
+  # The worth of Ores and mined things that could be hard to find.
+  ore: 0.9
+component:
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 1200
+
+  # ABOUT Cull Drops
+  # Drops are determined by their worth within the configs. This will then determine weather react should cull 30 pieces of dirt, or 20 diamonds. Basically, friendly drop culling.
+  # 
+  # You can disable Cull Drops here.
+  enable: true
+despawn-rate:
+
+  # Use the spigot.yml file to find item-despawn rates
+  use-spigot-config: false
+
+  # Alternate despawn rate (ticks) if spigot config is disabled.
+  alternate-rate: 1200
+visual:
+  warn:
+
+    # Time in seconds to start counting down.
+    time-threshold-seconds: 15
+
+    # Show despawn warnings on items
+    enable-drop-warnings: true
+
+    # The countdown format
+    time-format: '&c! &6&l%time%'
+culler:
+
+  # The delay in seconds to despawn an item.
+  despawn-delay: 12
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
+drops-per-chunk: 26
+ignore-all-worth-when-culling: false

@@ -1,0 +1,84 @@
+modifications:
+
+  name-format: '&l&a%amt%x &r&7%mob%'
+
+  stack-health: true
+
+  # Allow the player to shift right click a mob to split a stack.
+  allow-player-splitting: true
+
+  health-stack-multiplier: 0.3
+
+  stack-sounds: true
+component:
+
+  # ABOUT Stack Entities
+  # Entities are stacked together to reduce overhead.
+  # 
+  # You can disable Stack Entities here.
+  enable: false
+
+  # Its typically not a good idea to change this
+  # unless you know what you are doing.
+  interval: 100
+constraints:
+
+  max-stack-size: 8
+
+  stack-named-entities: false
+
+  max-distance: 4.4
+  stackable:
+  - ELDER_GUARDIAN
+  - WITHER_SKELETON
+  - STRAY
+  - HUSK
+  - ZOMBIE_VILLAGER
+  - SKELETON_HORSE
+  - ZOMBIE_HORSE
+  - DONKEY
+  - MULE
+  - EVOKER
+  - VEX
+  - VINDICATOR
+  - ILLUSIONER
+  - CREEPER
+  - SKELETON
+  - SPIDER
+  - GIANT
+  - ZOMBIE
+  - SLIME
+  - GHAST
+  - PIG_ZOMBIE
+  - ENDERMAN
+  - CAVE_SPIDER
+  - SILVERFISH
+  - BLAZE
+  - MAGMA_CUBE
+  - ENDER_DRAGON
+  - WITHER
+  - BAT
+  - WITCH
+  - ENDERMITE
+  - GUARDIAN
+  - SHULKER
+  - PIG
+  - SHEEP
+  - COW
+  - CHICKEN
+  - SQUID
+  - MUSHROOM_COW
+  - SNOWMAN
+  - IRON_GOLEM
+  - RABBIT
+  - POLAR_BEAR
+  - LLAMA
+  - PARROT
+
+  stack-tamed-entities: false
+config:
+
+  # This is used for React to manage itself between updates
+  # It keeps your configs clean and tidy.
+  # Changing this will confuse react a bit :P
+  version: 1
